@@ -169,28 +169,7 @@
         chat.style.display = chat.style.display === 'none' ? 'block' : 'none';
     }
 
-    async function sendChat(event) {
-        event.preventDefault();
-        const input = document.getElementById('chatInput');
-        const text = input.value.trim();
-        if (!text) return;
-
-        const chatBox = document.getElementById('chatBox');
-        chatBox.innerHTML += `<div><strong>You:</strong> ${text}</div>`;
-        input.value = '';
-
-        const res = await fetch('{{  }}', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                'X-CSRF-TOKEN': '{{ csrf_token() }}'
-            },
-            body: JSON.stringify({ message: text })
-        });
-        const data = await res.json();
-        chatBox.innerHTML += `<div><strong>Bot:</strong> ${data.reply}</div>`;
-        chatBox.scrollTop = chatBox.scrollHeight;
-    }
+   
 </script>
 
     <!-- chat box -->
