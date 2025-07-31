@@ -83,21 +83,29 @@ class PushBetDataController extends Controller
 
             $pushBet = PushBet::where('wager_code', $wagerCode)->first();
 
+            // Convert string values to appropriate types for database
+            $gameCode = $tx['game_code'] ?? null;
+            $productCode = is_numeric($tx['product_code'] ?? '') ? (int)($tx['product_code']) : null;
+            $betAmount = is_numeric($tx['bet_amount'] ?? '') ? (float)($tx['bet_amount']) : 0;
+            $validBetAmount = is_numeric($tx['valid_bet_amount'] ?? '') ? (float)($tx['valid_bet_amount']) : 0;
+            $prizeAmount = is_numeric($tx['prize_amount'] ?? '') ? (float)($tx['prize_amount']) : 0;
+            $tipAmount = is_numeric($tx['tip_amount'] ?? '') ? (float)($tx['tip_amount']) : 0;
+
             if ($pushBet) {
                 // Update existing record
                 $pushBet->update([
                     'member_account'      => $tx['member_account'] ?? $pushBet->member_account,
                     'currency'            => $tx['currency'] ?? $pushBet->currency,
-                    'product_code'        => $tx['product_code'] ?? $pushBet->product_code,
-                    'game_code'           => $tx['game_code'] ?? $pushBet->game_code,
+                    'product_code'        => $productCode ?? $pushBet->product_code,
+                    'game_code'           => $gameCode ?? $pushBet->game_code,
                     'game_type'           => $tx['game_type'] ?? $pushBet->game_type,
                     'wager_code'          => $tx['wager_code'] ?? $pushBet->wager_code,
                     'wager_type'          => $tx['wager_type'] ?? $pushBet->wager_type,
                     'wager_status'        => $tx['wager_status'] ?? $pushBet->wager_status,
-                    'bet_amount'          => $tx['bet_amount'] ?? $pushBet->bet_amount,
-                    'valid_bet_amount'    => $tx['valid_bet_amount'] ?? $pushBet->valid_bet_amount,
-                    'prize_amount'        => $tx['prize_amount'] ?? $pushBet->prize_amount,
-                    'tip_amount'          => $tx['tip_amount'] ?? $pushBet->tip_amount,
+                    'bet_amount'          => $betAmount ?? $pushBet->bet_amount,
+                    'valid_bet_amount'    => $validBetAmount ?? $pushBet->valid_bet_amount,
+                    'prize_amount'        => $prizeAmount ?? $pushBet->prize_amount,
+                    'tip_amount'          => $tipAmount ?? $pushBet->tip_amount,
                     'created_at_provider' => (isset($tx['created_at']) && is_numeric($tx['created_at'])) ? now()->setTimestamp($tx['created_at']) : $pushBet->created_at_provider,
                     'settled_at'          => (isset($tx['settled_at']) && is_numeric($tx['settled_at'])) ? now()->setTimestamp($tx['settled_at']) : $pushBet->settled_at,
                     'meta'                => json_encode($tx),
@@ -107,16 +115,16 @@ class PushBetDataController extends Controller
                 PushBet::create([
                     'member_account'      => $tx['member_account'] ?? '',
                     'currency'            => $tx['currency'] ?? '',
-                    'product_code'        => $tx['product_code'] ?? 0,
-                    'game_code'           => $tx['game_code'] ?? '',
+                    'product_code'        => $productCode ?? 0,
+                    'game_code'           => $gameCode ?? null,
                     'game_type'           => $tx['game_type'] ?? '',
                     'wager_code'          => $tx['wager_code'] ?? '',
                     'wager_type'          => $tx['wager_type'] ?? '',
                     'wager_status'        => $tx['wager_status'] ?? '',
-                    'bet_amount'          => $tx['bet_amount'] ?? 0,
-                    'valid_bet_amount'    => $tx['valid_bet_amount'] ?? 0,
-                    'prize_amount'        => $tx['prize_amount'] ?? 0,
-                    'tip_amount'          => $tx['tip_amount'] ?? 0,
+                    'bet_amount'          => $betAmount ?? 0,
+                    'valid_bet_amount'    => $validBetAmount ?? 0,
+                    'prize_amount'        => $prizeAmount ?? 0,
+                    'tip_amount'          => $tipAmount ?? 0,
                     'created_at_provider' => (isset($tx['created_at']) && is_numeric($tx['created_at'])) ? now()->setTimestamp($tx['created_at']) : null,
                     'settled_at'          => (isset($tx['settled_at']) && is_numeric($tx['settled_at'])) ? now()->setTimestamp($tx['settled_at']) : null,
                     'meta'                => json_encode($tx),

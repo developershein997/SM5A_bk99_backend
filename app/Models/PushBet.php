@@ -34,11 +34,28 @@ class PushBet extends Model
         'meta' => 'array',
         'settled_at' => 'datetime',
         'created_at_provider' => 'datetime',
+        'product_code' => 'integer',
+        'game_code' => 'string',
+        'bet_amount' => 'decimal:2',
+        'valid_bet_amount' => 'decimal:2',
+        'prize_amount' => 'decimal:2',
+        'tip_amount' => 'decimal:2',
     ];
 
     // PlaceBet.php
     public function user()
     {
         return $this->belongsTo(User::class, 'member_account', 'user_name');
+    }
+
+    /**
+     * Get the original game code from meta data if available
+     */
+    public function getOriginalGameCodeAttribute()
+    {
+        if (isset($this->meta['game_code'])) {
+            return $this->meta['game_code'];
+        }
+        return null;
     }
 }
