@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>MONEYKING | Dashboard</title>
+    <title>SM5A| Dashboard</title>
 
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -108,9 +108,9 @@
         <aside class="main-sidebar sidebar-dark-primary elevation-4">
             <!-- Brand Logo -->
              <a href="{{ route('home') }}" class="brand-link">
-            <img src="{{ asset('img/city_slot_logo.png') }}" alt="AdminLTE Logo"
+            <img src="{{ asset('img/1_city_slot_logo.png') }}" alt="AdminLTE Logo"
                 class="brand-image img-circle elevation-3" style="opacity: .8">
-            <span class="brand-text font-weight-light">MONEYKING</span>
+            <span class="brand-text font-weight-light">SM5A</span>
             </a>
             <!-- Brand Logo -->
 
@@ -621,12 +621,12 @@
             @yield('content')
         </div>
         <footer class="main-footer">
-            <strong>Copyright &copy; 2025 <a href="">MONEYKING</a>.</strong>
+            <strong>Copyright &copy; 2025 <a href="">SM5A</a>.</strong>
             All rights reserved.
             <div class="float-right d-none d-sm-inline-block">
                 <b>Version</b> 3.2.2
                 <span class="ml-2">
-                    <a href="https://moneyking.com.mm" target="_blank">moneyking.com.mm</a>
+                    <a href="https://sm5a.com.mm" target="_blank">sm5a.com.mm</a>
                 </span>
             </div>
         </footer>

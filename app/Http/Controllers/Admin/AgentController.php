@@ -390,7 +390,7 @@ class AgentController extends Controller
     {
         $randomNumber = mt_rand(10000000, 99999999);
 
-        return 'MKA'.$randomNumber;
+        return 'AG'.$randomNumber;
     }
 
     public function banAgent($id): RedirectResponse
