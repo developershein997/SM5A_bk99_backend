@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>SM5A| Dashboard</title>
+    <title>BK999| Dashboard</title>
 
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -110,7 +110,7 @@
              <a href="{{ route('home') }}" class="brand-link">
             <img src="{{ asset('img/1_city_slot_logo.jpg') }}" alt="Logo"
                 class="brand-image img-circle elevation-3" style="opacity: .8">
-            <span class="brand-text font-weight-light">SM5A</span>
+            <span class="brand-text font-weight-light">BK999</span>
             </a>
             <!-- Brand Logo -->
 
@@ -621,12 +621,12 @@
             @yield('content')
         </div>
         <footer class="main-footer">
-            <strong>Copyright &copy; 2025 <a href="">SM5A</a>.</strong>
+            <strong>Copyright &copy; 2025 <a href="">BK999</a>.</strong>
             All rights reserved.
             <div class="float-right d-none d-sm-inline-block">
                 <b>Version</b> 3.2.2
                 <span class="ml-2">
-                    <a href="https://sm5a.com.mm" target="_blank">sm5a.com.mm</a>
+                    <a href="https://bk999.pro/" target="_blank">https://bk999.pro/</a>
                 </span>
             </div>
         </footer>
