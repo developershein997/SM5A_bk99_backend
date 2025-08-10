@@ -3,19 +3,18 @@
 namespace Database\Seeders;
 
 use Carbon\Carbon;
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\File;
 
-class SpadeGamingSlotGameSeeder extends Seeder
+class SBOSportBookGameListSeeder extends Seeder
 {
     /**
      * Run the database seeds.
      */
     public function run()
     {
-        $jsonPath = base_path('app/Console/Commands/data/spadegaming_slot.json');
+        $jsonPath = base_path('app/Console/Commands/data/sbo_sport_book.json');
         $data = json_decode(File::get($jsonPath), true);
         $now = Carbon::now();
 
@@ -28,12 +27,12 @@ class SpadeGamingSlotGameSeeder extends Seeder
                         'game_type' => $game['game_type'],
                         'image_url' => $game['image_url'],
                         'provider_product_id' => $game['product_id'],
-                        'game_type_id' => 1,
-                        'product_id' => 4,
+                        'game_type_id' => 3,
+                        'product_id' => 1,
                         'product_code' => $game['product_code'],
                         'support_currency' => $game['support_currency'],
                         'status' => $game['status'],
-                        'provider' => 'SpadeGaming',
+                        'provider' => 'SBO',
                         'game_list_status' => 1,
                         'created_at' => $now,
                         'updated_at' => $now,
