@@ -9,8 +9,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3134.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,PHP,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "606",
@@ -19,8 +20,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/606.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "555",
@@ -29,8 +31,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/555.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "562",
@@ -39,8 +42,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/562.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "681",
@@ -49,8 +53,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/681.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "620",
@@ -59,8 +64,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/620.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3092",
@@ -69,8 +75,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3092.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,MXN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,KES,MXN",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "675",
@@ -79,8 +86,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/675.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "376",
@@ -89,8 +97,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/376.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3241",
@@ -99,8 +108,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3241.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "372",
@@ -109,8 +119,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/372.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "615",
@@ -119,8 +130,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/615.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "516",
@@ -129,8 +141,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/516.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "541",
@@ -139,8 +152,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/541.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "553",
@@ -149,8 +163,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/553.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "537",
@@ -159,8 +174,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/537.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "523",
@@ -169,8 +185,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/523.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3095",
@@ -179,8 +196,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3095.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,MXN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,KES,MXN",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "570",
@@ -189,8 +207,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/570.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "566",
@@ -199,8 +218,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/566.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "560",
@@ -209,8 +229,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/560.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "616",
@@ -219,8 +240,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/616.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "688",
@@ -229,18 +251,20 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/688.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "612",
-            "game_name": "Speed Blackjack 15",
+            "game_name": "Blackjack 148",
             "game_type": "LIVE_CASINO_PREMIUM",
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/612.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "517",
@@ -249,8 +273,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/517.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3021",
@@ -259,8 +284,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3021.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "662",
@@ -269,8 +295,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/662.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "750",
@@ -279,8 +306,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/750.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "596",
@@ -289,8 +317,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/596.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "550",
@@ -299,8 +328,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/550.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "684",
@@ -309,8 +339,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/684.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "302",
@@ -319,8 +350,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/302.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "548",
@@ -329,8 +361,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/548.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "538",
@@ -339,8 +372,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/538.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "521",
@@ -349,8 +383,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/521.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "601",
@@ -359,8 +394,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/601.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "901",
@@ -369,8 +405,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/901.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "608",
@@ -379,8 +416,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/608.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3009",
@@ -389,8 +427,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3009.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "535",
@@ -399,8 +438,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/535.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "513",
@@ -409,18 +449,20 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/513.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "690",
-            "game_name": "Speed Blackjack 60",
+            "game_name": "Blackjack 153",
             "game_type": "LIVE_CASINO_PREMIUM",
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/690.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3046",
@@ -429,8 +471,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3046.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3233",
@@ -439,8 +482,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3233.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "672",
@@ -449,8 +493,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/672.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "381",
@@ -459,8 +504,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/381.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "563",
@@ -469,8 +515,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/563.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "751",
@@ -479,8 +526,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/751.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "321",
@@ -489,8 +537,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/321.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,KRW,EUR,IDR,VND,USD,MXN,MMK,BDT,BRL,INR,JPY,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "592",
@@ -499,8 +548,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/592.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3047",
@@ -509,8 +559,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3047.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "624",
@@ -519,8 +570,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/624.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "557",
@@ -529,8 +581,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/557.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3235",
@@ -539,8 +592,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3235.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "591",
@@ -549,8 +603,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/591.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "618",
@@ -559,8 +614,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/618.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3015",
@@ -569,8 +625,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3015.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "528",
@@ -579,8 +636,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/528.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3001",
@@ -589,8 +647,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3001.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,INR,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3003",
@@ -599,8 +658,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3003.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,INR,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "512",
@@ -609,8 +669,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/512.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "527",
@@ -619,8 +680,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/527.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "558",
@@ -629,8 +691,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/558.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "542",
@@ -639,8 +702,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/542.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "676",
@@ -649,8 +713,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/676.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3253",
@@ -659,8 +724,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3253.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "524",
@@ -669,8 +735,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/524.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3252",
@@ -679,8 +746,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3252.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "569",
@@ -689,8 +757,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/569.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "747",
@@ -699,8 +768,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/747.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "536",
@@ -709,8 +779,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/536.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3053",
@@ -719,8 +790,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3053.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3142",
@@ -730,7 +802,8 @@
             "product_id": 1300,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "617",
@@ -739,8 +812,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/617.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "326",
@@ -750,7 +824,8 @@
             "product_id": 1300,
             "product_code": 1006,
             "support_currency": "PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "904",
@@ -759,8 +834,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/904.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "749",
@@ -769,8 +845,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/749.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "595",
@@ -779,8 +856,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/595.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3050",
@@ -789,8 +867,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3050.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "568",
@@ -799,8 +878,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/568.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3255",
@@ -809,18 +889,20 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3255.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "645",
-            "game_name": "Speed Blackjack 28",
+            "game_name": "Blackjack 151",
             "game_type": "LIVE_CASINO_PREMIUM",
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/645.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3239",
@@ -829,8 +911,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3239.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "529",
@@ -839,8 +922,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/529.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "644",
@@ -849,8 +933,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/644.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3017",
@@ -859,8 +944,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3017.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "303",
@@ -869,8 +955,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/303.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "593",
@@ -879,8 +966,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/593.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3145",
@@ -890,7 +978,8 @@
             "product_id": 1300,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "673",
@@ -899,8 +988,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/673.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3008",
@@ -909,8 +999,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3008.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "378",
@@ -919,8 +1010,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/378.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "369",
@@ -929,18 +1021,20 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/369.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "658",
-            "game_name": "Speed Blackjack 19",
+            "game_name": "Blackjack 150",
             "game_type": "LIVE_CASINO_PREMIUM",
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/658.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3049",
@@ -949,8 +1043,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3049.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3005",
@@ -959,8 +1054,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3005.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,INR,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3094",
@@ -969,8 +1065,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3094.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,MXN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,KES,MXN",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "698",
@@ -979,8 +1076,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/698.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3018",
@@ -989,8 +1087,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3018.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "598",
@@ -999,8 +1098,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/598.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "559",
@@ -1009,8 +1109,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/559.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3007",
@@ -1019,8 +1120,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3007.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "623",
@@ -1029,8 +1131,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/623.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "659",
@@ -1039,8 +1142,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/659.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3010",
@@ -1049,8 +1153,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3010.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "556",
@@ -1059,8 +1164,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/556.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3016",
@@ -1069,8 +1175,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3016.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "906",
@@ -1079,8 +1186,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/906.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "JPY,MYR",
-            "status": "ACTIVATED"
+            "support_currency": "MYR,JPY",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "902",
@@ -1089,8 +1197,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/902.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,KRW,EUR,IDR,USD,MXN,MMK,BDT,BRL,INR,JPY,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,USD,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "687",
@@ -1099,8 +1208,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/687.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "552",
@@ -1109,8 +1219,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/552.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "540",
@@ -1119,8 +1230,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/540.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "647",
@@ -1129,18 +1241,20 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/647.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "613",
-            "game_name": "Speed Blackjack 16",
+            "game_name": "Blackjack 149",
             "game_type": "LIVE_CASINO_PREMIUM",
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/613.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "600",
@@ -1149,8 +1263,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/600.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "305",
@@ -1159,8 +1274,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/305.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "622",
@@ -1169,8 +1285,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/622.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "526",
@@ -1179,8 +1296,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/526.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "621",
@@ -1189,8 +1307,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/621.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "551",
@@ -1199,8 +1318,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/551.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "515",
@@ -1209,8 +1329,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/515.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "514",
@@ -1219,8 +1340,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/514.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "641",
@@ -1229,8 +1351,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/641.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3091",
@@ -1239,8 +1362,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3091.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,MXN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,KES,MXN",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3143",
@@ -1250,7 +1374,8 @@
             "product_id": 1300,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "522",
@@ -1259,8 +1384,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/522.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "603",
@@ -1269,8 +1395,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/603.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "554",
@@ -1279,8 +1406,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/554.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "370",
@@ -1289,8 +1417,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/370.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "642",
@@ -1299,8 +1428,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/642.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "683",
@@ -1309,8 +1439,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/683.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "375",
@@ -1319,8 +1450,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/375.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "323",
@@ -1329,8 +1461,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/323.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,KRW,EUR,IDR,VND,USD,MXN,MMK,BDT,BRL,INR,JPY,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3054",
@@ -1339,8 +1472,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3054.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3004",
@@ -1349,8 +1483,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3004.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,INR,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "685",
@@ -1359,8 +1494,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/685.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3256",
@@ -1369,8 +1505,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3256.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "643",
@@ -1379,8 +1516,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/643.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "626",
@@ -1389,8 +1527,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/626.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "597",
@@ -1399,8 +1538,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/597.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "912",
@@ -1409,8 +1549,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/912.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "JPY,MYR",
-            "status": "ACTIVATED"
+            "support_currency": "MYR,JPY",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "304",
@@ -1419,8 +1560,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/304.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "625",
@@ -1429,8 +1571,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/625.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "678",
@@ -1439,8 +1582,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/678.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "565",
@@ -1449,8 +1593,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/565.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3240",
@@ -1459,8 +1604,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3240.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "590",
@@ -1469,8 +1615,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/590.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "614",
@@ -1479,8 +1626,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/614.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "609",
@@ -1489,8 +1637,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/609.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3093",
@@ -1499,8 +1648,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3093.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,MXN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,KES,MXN",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "689",
@@ -1509,8 +1659,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/689.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "519",
@@ -1519,8 +1670,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/519.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3002",
@@ -1529,8 +1681,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3002.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,INR,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3254",
@@ -1539,8 +1692,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3254.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "731",
@@ -1549,8 +1703,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/731.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,INR,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "511",
@@ -1559,8 +1714,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/511.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "902a9",
@@ -1569,8 +1725,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/902a9.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3232",
@@ -1579,8 +1736,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3232.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "604",
@@ -1589,8 +1747,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/604.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "544",
@@ -1599,8 +1758,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/544.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "677",
@@ -1609,8 +1769,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/677.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "671",
@@ -1619,8 +1780,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/671.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3231",
@@ -1629,8 +1791,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3231.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "661",
@@ -1639,8 +1802,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/661.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "547",
@@ -1649,8 +1813,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/547.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "660",
@@ -1659,8 +1824,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/660.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "594",
@@ -1669,8 +1835,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/594.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "374",
@@ -1679,8 +1846,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/374.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "377",
@@ -1689,8 +1857,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/377.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "674",
@@ -1699,8 +1868,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/674.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3014",
@@ -1709,8 +1879,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3014.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "599",
@@ -1719,8 +1890,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/599.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "682",
@@ -1729,8 +1901,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/682.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3019",
@@ -1739,8 +1912,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3019.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "373",
@@ -1749,8 +1923,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/373.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "686",
@@ -1759,8 +1934,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/686.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "607",
@@ -1769,8 +1945,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/607.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3020",
@@ -1779,8 +1956,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3020.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "549",
@@ -1789,8 +1967,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/549.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3024",
@@ -1799,8 +1978,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3024.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "379",
@@ -1809,8 +1989,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/379.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3242",
@@ -1819,8 +2000,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3242.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "380",
@@ -1829,8 +2011,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/380.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "730",
@@ -1839,8 +2022,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/730.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,INR,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3025",
@@ -1849,8 +2033,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3025.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3051",
@@ -1859,8 +2044,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3051.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3048",
@@ -1869,8 +2055,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3048.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "539",
@@ -1879,8 +2066,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/539.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3135",
@@ -1889,8 +2077,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3135.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,PHP,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3238",
@@ -1899,8 +2088,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3238.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "322",
@@ -1909,8 +2099,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/322.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,KRW,EUR,IDR,VND,USD,MXN,MMK,BDT,BRL,INR,JPY,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "103",
@@ -1919,8 +2110,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/103.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,MMK,BDT,PHP,BRL,INR,JPY,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,AOA,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "602",
@@ -1929,8 +2121,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/602.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3234",
@@ -1939,8 +2132,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3234.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "301",
@@ -1949,8 +2143,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/301.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "543",
@@ -1959,18 +2154,20 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/543.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "646",
-            "game_name": "Speed Blackjack 29",
+            "game_name": "Blackjack 152",
             "game_type": "LIVE_CASINO_PREMIUM",
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/646.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "564",
@@ -1979,8 +2176,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/564.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "520",
@@ -1989,8 +2187,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/520.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3052",
@@ -1999,8 +2198,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3052.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3055",
@@ -2009,8 +2209,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3055.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "664",
@@ -2019,8 +2220,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/664.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "518",
@@ -2029,8 +2231,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/518.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "619",
@@ -2039,8 +2242,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/619.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "561",
@@ -2049,8 +2253,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/561.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3144",
@@ -2060,7 +2265,8 @@
             "product_id": 1300,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "546",
@@ -2069,8 +2275,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/546.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "605",
@@ -2079,18 +2286,20 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/605.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "695",
-            "game_name": "Speed Blackjack 61",
+            "game_name": "Blackjack 154",
             "game_type": "LIVE_CASINO_PREMIUM",
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/695.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "663",
@@ -2099,8 +2308,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/663.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "530",
@@ -2109,8 +2319,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/530.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3006",
@@ -2119,8 +2330,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3006.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,PHP,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "748",
@@ -2129,8 +2341,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/748.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "525",
@@ -2139,8 +2352,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/525.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "371",
@@ -2149,8 +2363,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/371.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,TND,CZK,CAD,ETB,LBP,CHF,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3141",
@@ -2160,7 +2375,8 @@
             "product_id": 1300,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "567",
@@ -2169,8 +2385,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/567.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3133",
@@ -2179,8 +2396,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3133.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,USD,MXN,PHP,BRL,INR,JPY,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,KES,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3311",
@@ -2189,8 +2407,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3311.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "KRW,IDR,USD,PHP,JPY,THB",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,THB,JPY,USD,KRW",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3317",
@@ -2199,8 +2418,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3317.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "KRW,IDR,USD,PHP,JPY,THB",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,THB,JPY,USD,KRW",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3310",
@@ -2209,8 +2429,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3310.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "KRW,IDR,USD,PHP,JPY,THB",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,THB,JPY,USD,KRW",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3318",
@@ -2219,8 +2440,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3318.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "KRW,IDR,USD,PHP,JPY,THB",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,THB,JPY,USD,KRW",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3316",
@@ -2229,8 +2451,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3316.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "KRW,IDR,USD,PHP,JPY,THB",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,THB,JPY,USD,KRW",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3319",
@@ -2239,8 +2462,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3319.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "KRW,IDR,USD,PHP,JPY,THB",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,THB,JPY,USD,KRW",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3312",
@@ -2249,8 +2473,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3312.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "KRW,IDR,USD,PHP,JPY,THB",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,THB,JPY,USD,KRW",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3315",
@@ -2259,8 +2484,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3315.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "KRW,IDR,USD,PHP,JPY,THB",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,THB,JPY,USD,KRW",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3313",
@@ -2269,8 +2495,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3313.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "KRW,IDR,USD,PHP,JPY,THB",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,THB,JPY,USD,KRW",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3314",
@@ -2279,8 +2506,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3314.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "KRW,IDR,USD,PHP,JPY,THB",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,THB,JPY,USD,KRW",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "667",
@@ -2289,8 +2517,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/667.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,VND,USD,TND,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "IDR,JPY,TND,VND,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "668",
@@ -2299,8 +2528,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/668.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,VND,USD,TND,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "IDR,JPY,TND,VND,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "669",
@@ -2309,8 +2539,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/669.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,VND,USD,TND,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "IDR,JPY,TND,VND,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "670",
@@ -2319,8 +2550,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/670.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,VND,USD,TND,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "IDR,JPY,TND,VND,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "733",
@@ -2329,8 +2561,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/733.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,VND,USD,TND,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "IDR,JPY,TND,VND,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "728",
@@ -2339,8 +2572,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/728.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,VND,USD,TND,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "IDR,JPY,TND,VND,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "726",
@@ -2349,8 +2583,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/726.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,VND,USD,TND,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "IDR,JPY,TND,VND,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "347",
@@ -2359,8 +2594,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/347.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,VND,USD,TND,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "IDR,JPY,TND,VND,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "346",
@@ -2369,8 +2605,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/346.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,VND,USD,TND,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "IDR,JPY,TND,VND,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "729",
@@ -2379,8 +2616,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/729.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,VND,USD,TND,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "IDR,JPY,TND,VND,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "727",
@@ -2389,8 +2627,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/727.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,VND,USD,TND,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "IDR,JPY,TND,VND,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "732",
@@ -2399,8 +2638,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/732.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "IDR,VND,USD,TND,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "IDR,JPY,TND,VND,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3322",
@@ -2409,8 +2649,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3322.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "MXN,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,MXN",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3323",
@@ -2419,8 +2660,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3323.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "MXN,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,MXN",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3321",
@@ -2429,8 +2671,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3321.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "MXN,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,MXN",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3324",
@@ -2439,8 +2682,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3324.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "MXN,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,MXN",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3325",
@@ -2449,8 +2693,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3325.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "MXN,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,MXN",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "931",
@@ -2459,8 +2704,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/931.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1156",
@@ -2469,8 +2715,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/1156.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "932",
@@ -2479,8 +2726,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/932.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "933",
@@ -2489,8 +2737,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/933.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1157",
@@ -2499,8 +2748,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/1157.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1153",
@@ -2509,8 +2759,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/1153.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1154",
@@ -2519,8 +2770,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/1154.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1155",
@@ -2529,8 +2781,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/1155.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3340",
@@ -2539,8 +2792,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3340.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3341",
@@ -2549,8 +2803,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3341.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3342",
@@ -2559,8 +2814,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3342.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3343",
@@ -2569,8 +2825,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3343.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3344",
@@ -2579,8 +2836,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/3344.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,KRW,EUR,IDR,VND,USD,MXN,TND,CZK,CAD,MMK,ETB,LBP,BDT,CHF,PHP,BRL,INR,JPY,IRR,THB,MYR,NGN,KES",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1146",
@@ -2589,8 +2847,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/1146.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,CZK,ETB,LBP,CHF,INR,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,KES,IRR,MYR,MXN,LBP,AOA,ETB,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1147",
@@ -2599,8 +2858,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/1147.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,CZK,ETB,LBP,CHF,INR,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,KES,IRR,MYR,MXN,LBP,AOA,ETB,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1149",
@@ -2609,8 +2869,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/1149.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,CZK,ETB,LBP,CHF,INR,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,KES,IRR,MYR,MXN,LBP,AOA,ETB,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1148",
@@ -2619,8 +2880,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/1148.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,MXN,CZK,ETB,LBP,CHF,INR,IRR,KES",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,KES,IRR,MYR,MXN,LBP,AOA,ETB,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1159",
@@ -2629,13 +2891,113 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/1159.png",
             "product_id": 1300,
             "product_code": 1006,
-            "support_currency": "COP,AOA,ETB,CHF,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MXN,LBP,AOA,ETB,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "1160",
+            "game_name": "Indonesian ONE Blackjack",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/1160.png",
+            "product_id": 1300,
+            "product_code": 1006,
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MXN,LBP,AOA,ETB,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "11107",
+            "game_name": "Blackjack 143",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/11107.png",
+            "product_id": 1300,
+            "product_code": 1006,
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "11109",
+            "game_name": "Blackjack 145",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/11109.png",
+            "product_id": 1300,
+            "product_code": 1006,
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "11111",
+            "game_name": "Blackjack 147",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/11111.png",
+            "product_id": 1300,
+            "product_code": 1006,
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "11110",
+            "game_name": "Blackjack 146",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/11110.png",
+            "product_id": 1300,
+            "product_code": 1006,
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "11108",
+            "game_name": "Blackjack 144",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/11108.png",
+            "product_id": 1300,
+            "product_code": 1006,
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "331",
+            "game_name": "Blackjack 142",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/331.png",
+            "product_id": 1300,
+            "product_code": 1006,
+            "support_currency": "MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "330",
+            "game_name": "Blackjack 156",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/330.png",
+            "product_id": 1300,
+            "product_code": 1006,
+            "support_currency": "MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "329",
+            "game_name": "Blackjack 141",
+            "game_type": "LIVE_CASINO_PREMIUM",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO_PREMIUM/329.png",
+            "product_id": 1300,
+            "product_code": 1006,
+            "support_currency": "MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         }
     ],
     "pagination": {
         "size": 0,
         "offset": 0,
-        "total": "263"
+        "total": "272"
     }
 }

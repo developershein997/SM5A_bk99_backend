@@ -9,8 +9,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10064.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10046",
@@ -19,8 +20,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10046.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10062",
@@ -29,8 +31,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10062.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10041",
@@ -39,8 +42,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10041.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10056",
@@ -49,8 +53,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10056.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10032",
@@ -59,8 +64,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10032.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10034",
@@ -69,8 +75,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10034.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10063",
@@ -79,8 +86,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10063.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10039",
@@ -89,8 +97,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10039.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10058",
@@ -99,8 +108,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10058.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10031",
@@ -109,8 +119,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10031.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10059",
@@ -119,8 +130,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10059.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10061",
@@ -129,8 +141,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10061.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10057",
@@ -139,8 +152,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10057.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "20001",
@@ -149,8 +163,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/20001.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10060",
@@ -159,8 +174,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10060.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10022",
@@ -169,8 +185,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10022.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10030",
@@ -179,8 +196,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10030.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10043",
@@ -189,8 +207,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10043.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10038",
@@ -199,8 +218,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10038.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10028",
@@ -209,8 +229,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10028.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10049",
@@ -219,8 +240,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10049.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10065",
@@ -229,8 +251,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10065.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10027",
@@ -239,8 +262,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10027.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10054",
@@ -249,8 +273,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10054.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10051",
@@ -259,8 +284,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10051.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10050",
@@ -269,8 +295,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10050.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10067",
@@ -279,8 +306,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10067.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10033",
@@ -289,8 +317,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10033.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10069",
@@ -299,8 +328,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10069.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10044",
@@ -309,8 +339,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10044.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10048",
@@ -319,8 +350,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10048.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10055",
@@ -329,8 +361,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10055.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10037",
@@ -339,8 +372,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10037.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10040",
@@ -349,8 +383,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10040.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10053",
@@ -359,8 +394,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10053.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10035",
@@ -369,8 +405,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10035.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10042",
@@ -379,8 +416,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10042.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10066",
@@ -389,8 +427,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10066.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10036",
@@ -399,8 +438,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10036.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10052",
@@ -409,8 +449,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10052.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10029",
@@ -419,8 +460,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10029.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10047",
@@ -429,8 +471,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10047.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10045",
@@ -439,8 +482,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10045.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10071",
@@ -449,8 +493,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10071.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10068",
@@ -459,8 +504,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10068.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10070",
@@ -469,8 +515,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10070.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10073",
@@ -479,8 +526,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10073.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10072",
@@ -489,8 +537,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10072.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10075",
@@ -499,13 +548,25 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10075.png",
             "product_id": 1326,
             "product_code": 1204,
-            "support_currency": "IDR,DZD,INR,MMK,CDF,SEK,JPY,AUD,ARS,HRK,KRW,CNY,VND,NGN,BRL,UAH,NZD,ETB,CHF,KHR,USDT,MXN,BOB,IRR,LAK2,UZS2,CZK,SAR,ZMW,UZS,BDT,TRY,HNL,IRR2,AED,RUB,EGP,MYR,NOK,NPR,KES,AZN,ZAR,MAD,COP,IDR2,UGX,PKR,CLP,PHP,HUF,USD,PEN,LKR,TND,THB,EUR,GBP,BND,AMD,LAK,VND2,UYU,CAD,HKD,PLN,AOA",
-            "status": "ACTIVATED"
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "10074",
+            "game_name": "Golden Egypt",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1204/SLOT/10074.png",
+            "product_id": 1326,
+            "product_code": 1204,
+            "support_currency": "AED,CAD,NOK,HNL,CZK,PEN,LAK2,CNY,HUF,TRY,GBP,AOA,TND,AMD,BRL,LKR,CHF,MXN,RUB,AZN,ZAR,MYR,VND,JPY,KHR,VND2,SAR,UZS2,NGN,IDR2,IRR2,USD,ETB,HRK,INR,NZD,AUD,LAK,DZD,EGP,BDT,EUR,BOB,MAD,KRW,NPR,USDT,MMK,PLN,PHP,IDR,UGX,COP,PKR,BND,THB,HKD,KES,ZMW,CDF,UZS,SEK,ARS,CLP,UAH,UYU,IRR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         }
     ],
     "pagination": {
         "size": 0,
         "offset": 0,
-        "total": "50"
+        "total": "51"
     }
 }

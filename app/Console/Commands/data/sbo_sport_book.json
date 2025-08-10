@@ -10,7 +10,8 @@
             "product_id": 1189,
             "product_code": 1012,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         }
     ],
     "pagination": {

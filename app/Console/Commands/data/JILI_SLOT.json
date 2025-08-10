@@ -9,8 +9,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/5.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "2",
@@ -19,8 +20,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/2.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "6",
@@ -29,8 +31,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/6.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "17",
@@ -39,8 +42,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/17.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "21",
@@ -49,8 +53,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/21.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "4",
@@ -59,8 +64,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/4.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "27",
@@ -69,8 +75,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/27.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "35",
@@ -79,8 +86,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/35.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30",
@@ -89,8 +97,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/30.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "36",
@@ -99,8 +108,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/36.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "40",
@@ -109,8 +119,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/40.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "43",
@@ -119,8 +130,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/43.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "33",
@@ -129,8 +141,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/33.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "23",
@@ -139,8 +152,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/23.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "38",
@@ -149,8 +163,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/38.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "45",
@@ -159,8 +174,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/45.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "48",
@@ -169,8 +185,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/48.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "46",
@@ -179,8 +196,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/46.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "47",
@@ -189,8 +207,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/47.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "49",
@@ -199,8 +218,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/49.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "58",
@@ -209,8 +229,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/58.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "51",
@@ -219,8 +240,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/51.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "16",
@@ -229,8 +251,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/16.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "77",
@@ -239,8 +262,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/77.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "78",
@@ -249,8 +273,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/78.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "85",
@@ -259,8 +284,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/85.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "91",
@@ -269,8 +295,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/91.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "100",
@@ -279,8 +306,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/100.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "102",
@@ -289,8 +317,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/102.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "103",
@@ -299,8 +328,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/103.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "109",
@@ -309,8 +339,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/109.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "92",
@@ -319,8 +350,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/92.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "76",
@@ -329,8 +361,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/76.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "108",
@@ -339,8 +372,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/108.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "115",
@@ -349,8 +383,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/115.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "106",
@@ -359,8 +394,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/106.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "110",
@@ -369,8 +405,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/110.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "134",
@@ -379,8 +416,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/134.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "101",
@@ -390,7 +428,8 @@
             "product_id": 1144,
             "product_code": 1091,
             "support_currency": "USDT",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "87",
@@ -399,8 +438,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/87.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "130",
@@ -409,8 +449,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/130.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "116",
@@ -419,8 +460,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/116.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "137",
@@ -429,8 +471,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/137.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "135",
@@ -439,8 +482,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/135.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "153",
@@ -449,8 +493,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/153.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "126",
@@ -459,8 +504,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/126.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "144",
@@ -469,8 +515,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/144.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "142",
@@ -479,8 +526,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/142.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "146",
@@ -489,8 +537,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/146.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "136",
@@ -499,8 +548,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/136.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "145",
@@ -509,8 +559,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/145.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "166",
@@ -519,8 +570,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/166.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "164",
@@ -529,8 +581,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/164.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "183",
@@ -539,8 +592,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/183.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "181",
@@ -549,8 +603,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/181.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "176",
@@ -559,8 +614,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/176.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "223",
@@ -569,8 +625,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/223.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "198",
@@ -579,8 +636,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/198.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "225",
@@ -589,8 +647,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/225.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "172",
@@ -599,8 +658,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/172.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "230",
@@ -609,8 +669,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/230.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "191",
@@ -619,8 +680,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/191.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "193",
@@ -629,8 +691,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/193.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "420",
@@ -639,8 +702,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/420.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "403",
@@ -649,8 +713,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/403.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "62",
@@ -660,7 +725,8 @@
             "product_id": 1144,
             "product_code": 1091,
             "support_currency": "BDT,MMK,VND,VND2,IDR,IDR2,HKD,MYR,USD,CNY,INR,KHR2,PHP,THB,KRW,SGD",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "64",
@@ -670,7 +736,8 @@
             "product_id": 1144,
             "product_code": 1091,
             "support_currency": "BDT,MMK,VND,VND2,IDR,IDR2,HKD,MYR,USD,CNY,INR,KHR2,PHP,THB,KRW,SGD",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "63",
@@ -680,7 +747,8 @@
             "product_id": 1144,
             "product_code": 1091,
             "support_currency": "BDT,MMK,VND,VND2,IDR,IDR2,HKD,MYR,USD,CNY,INR,KHR2,PHP,THB,KRW,SGD",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "299",
@@ -689,8 +757,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/299.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "303",
@@ -699,8 +768,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/303.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "37",
@@ -709,8 +779,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/37.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "180",
@@ -719,8 +790,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/180.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "238",
@@ -729,8 +801,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/238.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "10",
@@ -739,8 +812,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/10.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "252",
@@ -749,8 +823,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/252.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "239",
@@ -759,8 +834,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/239.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "208",
@@ -769,8 +845,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/208.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "226",
@@ -779,8 +856,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/226.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "13",
@@ -789,8 +867,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/13.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "302",
@@ -799,8 +878,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/302.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "26",
@@ -809,8 +889,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/26.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "67",
@@ -819,8 +900,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/67.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "228",
@@ -829,8 +911,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/228.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "259",
@@ -839,8 +922,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/259.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "44",
@@ -849,8 +933,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/44.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "258",
@@ -859,8 +944,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/258.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "14",
@@ -869,8 +955,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/14.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "300",
@@ -879,8 +966,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/300.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "263",
@@ -889,8 +977,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/263.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "301",
@@ -899,8 +988,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/301.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "399",
@@ -909,8 +999,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/399.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "171",
@@ -919,8 +1010,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/171.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "61",
@@ -930,7 +1022,8 @@
             "product_id": 1144,
             "product_code": 1091,
             "support_currency": "BDT,MMK,VND,VND2,IDR,IDR2,HKD,MYR,USD,CNY,INR,KHR2,PHP,THB,KRW,SGD",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "214",
@@ -939,8 +1032,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/214.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "209",
@@ -949,8 +1043,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/209.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "66",
@@ -960,7 +1055,8 @@
             "product_id": 1144,
             "product_code": 1091,
             "support_currency": "BDT,MMK,VND,VND2,IDR,IDR2,HKD,MYR,USD,CNY,INR,KHR2,PHP,THB,KRW,SGD",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "240",
@@ -969,8 +1065,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/240.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "264",
@@ -979,8 +1076,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/264.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "400",
@@ -989,8 +1087,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/400.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "375",
@@ -999,8 +1098,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/375.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "374",
@@ -1009,8 +1109,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/374.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "372",
@@ -1019,8 +1120,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/372.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "422",
@@ -1029,8 +1131,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/422.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "379",
@@ -1039,8 +1142,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/379.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "324",
@@ -1049,8 +1153,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/324.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "376",
@@ -1059,8 +1164,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/376.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "421",
@@ -1069,8 +1175,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/421.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "408",
@@ -1079,8 +1186,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/408.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "378",
@@ -1089,8 +1197,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/378.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "472",
@@ -1099,8 +1208,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/472.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "458",
@@ -1109,8 +1219,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/458.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "377",
@@ -1119,8 +1230,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/377.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "307",
@@ -1129,8 +1241,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/307.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "392",
@@ -1139,8 +1252,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/392.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "463",
@@ -1149,8 +1263,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/463.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "485",
@@ -1159,8 +1274,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/485.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "517",
@@ -1169,8 +1285,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/517.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "523",
@@ -1179,8 +1296,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/523.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "409",
@@ -1189,8 +1307,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/409.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "543",
@@ -1199,8 +1318,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/543.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "542",
@@ -1209,8 +1329,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/542.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "460",
@@ -1219,8 +1340,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/460.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "526",
@@ -1229,8 +1351,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/526.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "529",
@@ -1239,8 +1362,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/529.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "461",
@@ -1249,8 +1373,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/461.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "541",
@@ -1259,8 +1384,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/541.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "545",
@@ -1269,8 +1395,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/545.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "505",
@@ -1280,7 +1407,8 @@
             "product_id": 1144,
             "product_code": 1091,
             "support_currency": "USDT",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "423",
@@ -1289,8 +1417,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/423.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "424",
@@ -1299,8 +1428,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/424.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "589",
@@ -1310,7 +1440,8 @@
             "product_id": 1144,
             "product_code": 1091,
             "support_currency": "USDT",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "518",
@@ -1319,13 +1450,58 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/518.png",
             "product_id": 1144,
             "product_code": 1091,
-            "support_currency": "PKR,IDR2,KHR2,MMK,PHP,USDT,USD,BDT,INR,THB,NPR,JPY,LKR,IDR,MYR,SGD,VND2,CNY,HKD,KRW,VND",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "591",
+            "game_name": "100 Blazing Clover",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/591.png",
+            "product_id": 1144,
+            "product_code": 1091,
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "80",
+            "game_name": "lobby",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/80.png",
+            "product_id": 1144,
+            "product_code": 1091,
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "210",
+            "game_name": "Poker Lobby",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/210.png",
+            "product_id": 1144,
+            "product_code": 1091,
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "504",
+            "game_name": "Crazy777 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1091/SLOT/504.png",
+            "product_id": 1144,
+            "product_code": 1091,
+            "support_currency": "MMK,VND,IDR,CNY,INR,HKD,PHP,NPR,JPY,PKR,IDR2,USD,BDT,MYR,SGD,VND2,USDT,LKR,KHR2,KRW,THB",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         }
     ],
     "pagination": {
         "size": 0,
         "offset": 0,
-        "total": "133"
+        "total": "137"
     }
 }

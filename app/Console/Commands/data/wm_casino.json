@@ -10,7 +10,8 @@
             "product_id": 1142,
             "product_code": 1020,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "102",
@@ -20,7 +21,8 @@
             "product_id": 1142,
             "product_code": 1020,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "103",
@@ -30,7 +32,8 @@
             "product_id": 1142,
             "product_code": 1020,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "104",
@@ -40,7 +43,8 @@
             "product_id": 1142,
             "product_code": 1020,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "105",
@@ -50,7 +54,8 @@
             "product_id": 1142,
             "product_code": 1020,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "107",
@@ -60,7 +65,8 @@
             "product_id": 1142,
             "product_code": 1020,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "108",
@@ -70,7 +76,8 @@
             "product_id": 1142,
             "product_code": 1020,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "110",
@@ -80,7 +87,8 @@
             "product_id": 1142,
             "product_code": 1020,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "128",
@@ -90,7 +98,8 @@
             "product_id": 1142,
             "product_code": 1020,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         }
     ],
     "pagination": {

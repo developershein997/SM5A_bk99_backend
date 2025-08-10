@@ -9,8 +9,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1079/FISHING/21009.png",
             "product_id": 1246,
             "product_code": 1079,
-            "support_currency": "RUB,PKR,COP,JPY,PEN,CHF,MYR,EUR,VND,NGN,GBP,KHR,USDT,BRL,USD,HUF,LKR,NZD,SEK,ZAR,PHP,MMK,KRW,HKD,CZK,NOK,IDR,INR,BDT,KES,THB,CNY,SGD,CAD,VND,AUD,MXN,IDR",
-            "status": "ACTIVATED"
+            "support_currency": "EUR,MMK,PEN,HKD,NZD,THB,CNY,RUB,MXN,PKR,CAD,USDT,BDT,JPY,IDR,USD,HUF,ZAR,BRL,IDR,INR,MYR,AUD,NGN,LKR,VND,CHF,CZK,GBP,KHR,PHP,VND,KES,COP,SEK,KRW,SGD,NOK",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "21008",
@@ -19,8 +20,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1079/FISHING/21008.png",
             "product_id": 1246,
             "product_code": 1079,
-            "support_currency": "RUB,PKR,COP,JPY,PEN,CHF,MYR,EUR,VND,NGN,GBP,KHR,USDT,BRL,USD,HUF,LKR,NZD,SEK,ZAR,PHP,MMK,KRW,HKD,CZK,NOK,IDR,INR,BDT,KES,THB,CNY,SGD,CAD,VND,AUD,MXN,IDR",
-            "status": "ACTIVATED"
+            "support_currency": "EUR,MMK,PEN,HKD,NZD,THB,CNY,RUB,MXN,PKR,CAD,USDT,BDT,JPY,IDR,USD,HUF,ZAR,BRL,IDR,INR,MYR,AUD,NGN,LKR,VND,CHF,CZK,GBP,KHR,PHP,VND,KES,COP,SEK,KRW,SGD,NOK",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "21003",
@@ -29,8 +31,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1079/FISHING/21003.png",
             "product_id": 1246,
             "product_code": 1079,
-            "support_currency": "RUB,PKR,COP,JPY,PEN,CHF,MYR,EUR,VND,NGN,GBP,KHR,USDT,BRL,USD,HUF,LKR,NZD,SEK,ZAR,PHP,MMK,KRW,HKD,CZK,NOK,IDR,INR,BDT,KES,THB,CNY,SGD,CAD,VND,AUD,MXN,IDR",
-            "status": "ACTIVATED"
+            "support_currency": "EUR,MMK,PEN,HKD,NZD,THB,CNY,RUB,MXN,PKR,CAD,USDT,BDT,JPY,IDR,USD,HUF,ZAR,BRL,IDR,INR,MYR,AUD,NGN,LKR,VND,CHF,CZK,GBP,KHR,PHP,VND,KES,COP,SEK,KRW,SGD,NOK",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "21004",
@@ -39,8 +42,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1079/FISHIGH/21004.png",
             "product_id": 1246,
             "product_code": 1079,
-            "support_currency": "RUB,PKR,COP,JPY,PEN,CHF,MYR,EUR,VND,NGN,GBP,KHR,USDT,BRL,USD,HUF,LKR,NZD,SEK,ZAR,PHP,MMK,KRW,HKD,CZK,NOK,IDR,INR,BDT,KES,THB,CNY,SGD,CAD,VND,AUD,MXN,IDR",
-            "status": "ACTIVATED"
+            "support_currency": "EUR,MMK,PEN,HKD,NZD,THB,CNY,RUB,MXN,PKR,CAD,USDT,BDT,JPY,IDR,USD,HUF,ZAR,BRL,IDR,INR,MYR,AUD,NGN,LKR,VND,CHF,CZK,GBP,KHR,PHP,VND,KES,COP,SEK,KRW,SGD,NOK",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "21006",
@@ -49,8 +53,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1079/FISHING/21006.png",
             "product_id": 1246,
             "product_code": 1079,
-            "support_currency": "RUB,PKR,COP,JPY,PEN,CHF,MYR,EUR,VND,NGN,GBP,KHR,USDT,BRL,USD,HUF,LKR,NZD,SEK,ZAR,PHP,MMK,KRW,HKD,CZK,NOK,IDR,INR,BDT,KES,THB,CNY,SGD,CAD,VND,AUD,MXN,IDR",
-            "status": "ACTIVATED"
+            "support_currency": "EUR,MMK,PEN,HKD,NZD,THB,CNY,RUB,MXN,PKR,CAD,USDT,BDT,JPY,IDR,USD,HUF,ZAR,BRL,IDR,INR,MYR,AUD,NGN,LKR,VND,CHF,CZK,GBP,KHR,PHP,VND,KES,COP,SEK,KRW,SGD,NOK",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "21007",
@@ -59,8 +64,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1079/FISHING/21007.png",
             "product_id": 1246,
             "product_code": 1079,
-            "support_currency": "RUB,PKR,COP,JPY,PEN,CHF,MYR,EUR,VND,NGN,GBP,KHR,USDT,BRL,USD,HUF,LKR,NZD,SEK,ZAR,PHP,MMK,KRW,HKD,CZK,NOK,IDR,INR,BDT,KES,CNY,SGD,CAD,VND,AUD,MXN,IDR",
-            "status": "ACTIVATED"
+            "support_currency": "EUR,MMK,PEN,HKD,NZD,CNY,RUB,MXN,PKR,CAD,USDT,BDT,JPY,IDR,USD,HUF,ZAR,BRL,IDR,INR,MYR,AUD,NGN,LKR,VND,CHF,CZK,GBP,KHR,PHP,VND,KES,COP,SEK,KRW,SGD,NOK",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         }
     ],
     "pagination": {

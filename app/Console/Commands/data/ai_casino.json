@@ -10,7 +10,8 @@
             "product_id": 1178,
             "product_code": 1149,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "HASH_ROULETTE",
@@ -20,7 +21,8 @@
             "product_id": 1178,
             "product_code": 1149,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "HASH_SICBO",
@@ -30,7 +32,8 @@
             "product_id": 1178,
             "product_code": 1149,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "HASH_CRAPS",
@@ -40,7 +43,8 @@
             "product_id": 1178,
             "product_code": 1149,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "HASH_ANDAR_BAHAR",
@@ -50,7 +54,8 @@
             "product_id": 1178,
             "product_code": 1149,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "HASH_SPEED_FRENZY",
@@ -60,7 +65,8 @@
             "product_id": 1178,
             "product_code": 1149,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "HASH_BLACK_JACK",
@@ -70,7 +76,8 @@
             "product_id": 1178,
             "product_code": 1149,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "HASH_COLOR_GAME",
@@ -80,7 +87,8 @@
             "product_id": 1178,
             "product_code": 1149,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         }
     ],
     "pagination": {

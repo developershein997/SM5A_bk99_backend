@@ -10,7 +10,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "NIGHT_BAR",
@@ -20,7 +21,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "FATE_AND_LUCK",
@@ -30,7 +32,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "ROTI_LAGI_SATU",
@@ -40,7 +43,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "JACK_AND_THE_BEANSTALK",
@@ -50,7 +54,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "FLOWERISH_FAIRY",
@@ -60,7 +65,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "BINGO_ROCKET",
@@ -70,7 +76,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "BINGO_CARIBBEAN",
@@ -80,7 +87,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "BINGO_KITTY",
@@ -90,7 +98,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "MAGICIAN",
@@ -100,7 +109,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "THORS_HAMMER",
@@ -110,7 +120,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "CALL_UFO",
@@ -120,7 +131,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "SECRET_SCROLL_OF_NINJA",
@@ -130,7 +142,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "BINGO_SAMBA",
@@ -140,7 +153,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "WIZARD_OF_OZ",
@@ -150,7 +164,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "FIREWORKS",
@@ -160,7 +175,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "LEGEND_OF_EASTER_ISLAND",
@@ -170,7 +186,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "ALICE_IN_WONDERLAND",
@@ -180,7 +197,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "FOUR_GENTLEMANLY_FLOWERS",
@@ -190,7 +208,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "BAAHUBALI",
@@ -200,7 +219,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "HANG_TUAH",
@@ -210,7 +230,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "JUNGLE_TREASURE",
@@ -220,7 +241,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "TITAN_MONSTER",
@@ -230,7 +252,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "PUTERI_GUNUNG_LEDANG",
@@ -240,7 +263,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "GOD_OF_FORTUNE_LOTTERY",
@@ -250,7 +274,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "SUBMARINE_ABYSS",
@@ -260,7 +285,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "TRIAL_OF_THE_FIRE_DRAGON",
@@ -270,7 +296,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "NINE_TAILED_FOX",
@@ -280,7 +307,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "THE_FOUR_DIVINE_BEASTS",
@@ -290,7 +318,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "BARONG_SACRED_BATTLE",
@@ -300,7 +329,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "BIG_FIVE_GAME",
@@ -310,7 +340,8 @@
             "product_id": 1177,
             "product_code": 1148,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         }
     ],
     "pagination": {

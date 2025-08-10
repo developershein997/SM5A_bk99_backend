@@ -9,8 +9,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1009/FISHING/AT01.png",
             "product_id": 1187,
             "product_code": 1009,
-            "support_currency": "JPY,GBP,CLP,LAK,MMK2,NGN,MAD,MYR,BDT,TRY,AED,CNY,THB,KES,RUB,USDT,NPR,IDR2,KHR,BND,VND2,INR,SEK,ZAR,CAD,IDR,KRW,EUR,COP,BRL,SGD,MXN,VND,MMK,USD,HKD,AUD,NOK,PKR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "GBP,LAK,VND2,VND,THB,AUD,CAD,NOK,AED,IDR2,BND,ZAR,NGN,MYR,SGD,BDT,TRY,NPR,PHP,KRW,MAD,MXN,RUB,SEK,MMK2,KES,EUR,CLP,COP,PKR,IDR,BRL,INR,JPY,USDT,CNY,MMK,USD,KHR,HKD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "GO02",
@@ -19,8 +20,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1009/FISHING/GO02.png",
             "product_id": 1187,
             "product_code": 1009,
-            "support_currency": "JPY,GBP,CLP,LAK,MMK2,NGN,MAD,MYR,BDT,TRY,AED,CNY,THB,KES,RUB,USDT,NPR,IDR2,KHR,BND,VND2,INR,SEK,ZAR,CAD,IDR,KRW,EUR,COP,BRL,SGD,MXN,VND,MMK,USD,HKD,AUD,NOK,PKR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "GBP,LAK,VND2,VND,THB,AUD,CAD,NOK,AED,IDR2,BND,ZAR,NGN,MYR,SGD,BDT,TRY,NPR,PHP,KRW,MAD,MXN,RUB,SEK,MMK2,KES,EUR,CLP,COP,PKR,IDR,BRL,INR,JPY,USDT,CNY,MMK,USD,KHR,HKD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "AB3",
@@ -29,8 +31,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1009/FISHING/AB3.png",
             "product_id": 1187,
             "product_code": 1009,
-            "support_currency": "JPY,GBP,CLP,LAK,MMK2,NGN,MAD,MYR,BDT,TRY,AED,CNY,THB,KES,RUB,USDT,NPR,KHR,BND,VND2,INR,SEK,ZAR,CAD,KRW,EUR,COP,BRL,SGD,MXN,VND,MMK,USD,HKD,AUD,NOK,PKR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "GBP,LAK,VND2,VND,THB,AUD,CAD,NOK,AED,BND,ZAR,NGN,MYR,SGD,BDT,TRY,NPR,PHP,KRW,MAD,MXN,RUB,SEK,MMK2,KES,EUR,CLP,COP,PKR,BRL,INR,JPY,USDT,CNY,MMK,USD,KHR,HKD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "AT05",
@@ -39,8 +42,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1009/FISHING/AT05.png",
             "product_id": 1187,
             "product_code": 1009,
-            "support_currency": "JPY,GBP,CLP,LAK,MMK2,NGN,MAD,MYR,BDT,TRY,AED,CNY,THB,KES,RUB,USDT,NPR,KHR,BND,VND2,INR,SEK,ZAR,CAD,KRW,EUR,COP,BRL,SGD,MXN,VND,MMK,USD,HKD,AUD,NOK,PKR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "GBP,LAK,VND2,VND,THB,AUD,CAD,NOK,AED,BND,ZAR,NGN,MYR,SGD,BDT,TRY,NPR,PHP,KRW,MAD,MXN,RUB,SEK,MMK2,KES,EUR,CLP,COP,PKR,BRL,INR,JPY,USDT,CNY,MMK,USD,KHR,HKD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "CC1001",
@@ -50,7 +54,8 @@
             "product_id": 1187,
             "product_code": 1009,
             "support_currency": "CNY",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "GO05",
@@ -59,8 +64,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1009/FISHING/GO05.png",
             "product_id": 1187,
             "product_code": 1009,
-            "support_currency": "JPY,GBP,CLP,LAK,MMK2,NGN,MAD,MYR,BDT,TRY,AED,CNY,THB,KES,RUB,USDT,NPR,IDR2,KHR,BND,VND2,INR,SEK,ZAR,CAD,IDR,KRW,EUR,COP,BRL,SGD,MXN,VND,MMK,USD,HKD,AUD,NOK,PKR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "GBP,LAK,VND2,VND,THB,AUD,CAD,NOK,AED,IDR2,BND,ZAR,NGN,MYR,SGD,BDT,TRY,NPR,PHP,KRW,MAD,MXN,RUB,SEK,MMK2,KES,EUR,CLP,COP,PKR,IDR,BRL,INR,JPY,USDT,CNY,MMK,USD,KHR,HKD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "GO06",
@@ -69,8 +75,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1009/FISHING/GO06.png",
             "product_id": 1187,
             "product_code": 1009,
-            "support_currency": "JPY,GBP,CLP,LAK,MMK2,NGN,MAD,MYR,BDT,TRY,AED,CNY,THB,KES,RUB,USDT,NPR,IDR2,KHR,BND,VND2,INR,SEK,ZAR,CAD,IDR,KRW,EUR,COP,BRL,SGD,MXN,VND,MMK,USD,HKD,AUD,NOK,PKR,PHP",
-            "status": "ACTIVATED"
+            "support_currency": "GBP,LAK,VND2,VND,THB,AUD,CAD,NOK,AED,IDR2,BND,ZAR,NGN,MYR,SGD,BDT,TRY,NPR,PHP,KRW,MAD,MXN,RUB,SEK,MMK2,KES,EUR,CLP,COP,PKR,IDR,BRL,INR,JPY,USDT,CNY,MMK,USD,KHR,HKD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         }
     ],
     "pagination": {

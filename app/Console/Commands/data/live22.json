@@ -10,7 +10,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30001",
@@ -20,7 +21,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30002",
@@ -30,7 +32,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30003",
@@ -40,7 +43,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30004",
@@ -50,7 +54,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30005",
@@ -60,7 +65,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30006",
@@ -70,7 +76,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30007",
@@ -80,7 +87,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30008",
@@ -90,7 +98,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "35002",
@@ -100,7 +109,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30010",
@@ -110,7 +120,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30011",
@@ -120,7 +131,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30012",
@@ -130,7 +142,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30013",
@@ -140,7 +153,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30014",
@@ -150,7 +164,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30015",
@@ -160,7 +175,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30016",
@@ -170,7 +186,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30017",
@@ -180,7 +197,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30018",
@@ -190,7 +208,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30019",
@@ -200,7 +219,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30020",
@@ -210,7 +230,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30021",
@@ -220,7 +241,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30022",
@@ -230,7 +252,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30023",
@@ -240,7 +263,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30024",
@@ -250,7 +274,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30025",
@@ -260,7 +285,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "39999",
@@ -270,7 +296,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30027",
@@ -280,7 +307,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30028",
@@ -290,7 +318,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30029",
@@ -300,7 +329,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30030",
@@ -310,7 +340,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "30031",
@@ -320,7 +351,8 @@
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         }
     ],
     "pagination": {

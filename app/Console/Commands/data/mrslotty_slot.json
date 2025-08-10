@@ -9,8 +9,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AllLuckyClover100.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-AllLuckyClover20",
@@ -19,8 +20,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AllLuckyClover20.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-AllLuckyClover40",
@@ -29,8 +31,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AllLuckyClover40.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-AllLuckyClover5",
@@ -39,8 +42,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AllLuckyClover5.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-AlohaKingElvis",
@@ -49,8 +53,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AlohaKingElvis.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Avalon",
@@ -59,18 +64,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-Avalon.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "bgaming-AztecMagic",
-            "game_name": "Aztec Magic",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AztecMagic.png",
-            "product_id": 1143,
-            "product_code": 1058,
-            "support_currency": "VND,THB,IDR,BRL,PHP",
-            "status": "DEACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-AztecMagicBonanza",
@@ -79,8 +75,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AztecMagicBonanza.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-AztecMagicDeluxe",
@@ -89,8 +86,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AztecMagicDeluxe.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-AztecMagicMegaways",
@@ -99,8 +97,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AztecMagicMegaways.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-BeastBand",
@@ -109,8 +108,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-BeastBand.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-BonanzaBillion",
@@ -119,8 +119,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-BonanzaBillion.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-BoneBonanza",
@@ -129,8 +130,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-BoneBonanza.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-BookOfCats",
@@ -139,8 +141,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-BookOfCats.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-BookOfPyramids",
@@ -149,8 +152,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-BookOfPyramids.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-BraveViking",
@@ -160,7 +164,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "VND,THB,IDR,BRL,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-CherryFiesta",
@@ -170,7 +175,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "VND,THB,IDR,BRL,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-CrazyStarter",
@@ -180,7 +186,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "VND,THB,IDR,BRL,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-DeepSea",
@@ -189,8 +196,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-DeepSea.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-DesertTreasure",
@@ -200,7 +208,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "VND,THB,IDR,BRL,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-DiceBonanza",
@@ -209,8 +218,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-DiceBonanza.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-DiceMillion",
@@ -219,8 +229,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-DiceMillion.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Domnitors",
@@ -230,7 +241,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "VND,THB,IDR,BRL,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-DomnitorsDeluxe",
@@ -240,7 +252,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "VND,THB,IDR,BRL,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-FantasyPark",
@@ -250,7 +263,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "VND,THB,IDR,BRL,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-FireLightning",
@@ -259,8 +273,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-FireLightning.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-FourLuckyClover",
@@ -269,8 +284,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-FourLuckyClover.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-FourLuckyDiamonds",
@@ -279,8 +295,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-FourLuckyDiamonds.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-FruitMillion",
@@ -289,8 +306,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-FruitMillion.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Gemhalla",
@@ -299,8 +317,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-Gemhalla.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-HalloweenBonanza",
@@ -309,8 +328,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-HalloweenBonanza.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-HawaiiCocktails",
@@ -320,7 +340,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "VND,THB,IDR,BRL,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-HelloEaster",
@@ -330,7 +351,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "VND,THB,IDR,BRL,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-HitTheRoute",
@@ -339,8 +361,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-HitTheRoute.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-JohnnyCash",
@@ -349,8 +372,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-JohnnyCash.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-JourneyFlirt",
@@ -360,7 +384,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "VND,THB,IDR,BRL,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-LuckAndMagic",
@@ -369,8 +394,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-LuckAndMagic.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-LuckyBlue",
@@ -380,7 +406,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "VND,THB,IDR,BRL,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-LuckyCrew",
@@ -389,8 +416,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-LuckyCrew.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-LuckyLadyClover",
@@ -399,8 +427,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-LuckyLadyClover.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-LuckyLadyMoon",
@@ -409,8 +438,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-LuckyLadyMoon.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Maneki88Fortunes",
@@ -419,8 +449,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-Maneki88Fortunes.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-MechanicalClover",
@@ -429,8 +460,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-MechanicalClover.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-MiceAndMagic",
@@ -439,8 +471,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-MiceAndMagic.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-PlatinumLightning",
@@ -449,8 +482,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-PlatinumLightning.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-PlatinumLightningDeluxe",
@@ -459,8 +493,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-PlatinumLightningDeluxe.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-PrincessOfSky",
@@ -470,7 +505,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "VND,THB,IDR,BRL,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-RoyalHighRoad",
@@ -479,8 +515,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-RoyalHighRoad.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-SavageBuffaloSpirit",
@@ -489,8 +526,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-SavageBuffaloSpirit.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-SavageBuffaloSpiritMegaways",
@@ -499,8 +537,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-SavageBuffaloSpiritMegaways.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-SpinAndSpell",
@@ -509,8 +548,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-SpinAndSpell.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-WbcRingOfRiches",
@@ -519,8 +559,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-WbcRingOfRiches.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-WestTown",
@@ -529,8 +570,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-WestTown.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-WildCash",
@@ -539,8 +581,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-WildCash.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-WildCashDice",
@@ -549,8 +592,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-WildCashDice.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-WildChicago",
@@ -559,8 +603,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-WildChicago.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Gangsterz",
@@ -569,8 +614,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-Gangsterz.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Maneki88Gold",
@@ -579,8 +625,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-Maneki88Gold.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-WildCashx9990",
@@ -589,8 +636,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-WildCashx9990.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-FortyFruityMillion",
@@ -599,8 +647,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-FortyFruityMillion.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-BookOfPanda",
@@ -609,8 +658,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-BookOfPanda.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-BeerBonanza",
@@ -619,8 +669,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-BeerBonanza.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-ElvisFrogTRUEWAYS",
@@ -629,8 +680,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-ElvisFrogTRUEWAYS.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-BookOfCatsMegaways",
@@ -639,8 +691,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-BookOfCatsMegaways.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-MummysGold",
@@ -649,8 +702,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-MummysGold.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Soccermania",
@@ -659,8 +713,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-Soccermania.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-BurningChilliX",
@@ -669,8 +724,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-BurningChilliX.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-LuckyFarmBonanza",
@@ -679,8 +735,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-LuckyFarmBonanza.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-GiftRush",
@@ -689,8 +746,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-GiftRush.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-DomnitorsTreasure",
@@ -699,8 +757,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-DomnitorsTreasure.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-MergeUp",
@@ -709,8 +768,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-MergeUp.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-PotionSpells",
@@ -719,8 +779,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-PotionSpells.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-SweetRushMegaways",
@@ -729,8 +790,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-SweetRushMegaways.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-LuckyOak",
@@ -739,8 +801,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-LuckyOak.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-MonsterHunt",
@@ -749,8 +812,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-MonsterHunt.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-BookOfKemet",
@@ -759,8 +823,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-BookOfKemet.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-EasterHeist",
@@ -769,8 +834,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-EasterHeist.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-AlienFruits",
@@ -779,8 +845,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AlienFruits.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-RoadRiches2",
@@ -789,8 +856,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-RoadRiches2.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-CloverBonanza",
@@ -799,8 +867,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-CloverBonanza.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-PennyPelican",
@@ -809,8 +878,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-PennyPelican.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-JokerQueen",
@@ -819,8 +889,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-JokerQueen.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-SlotMachine",
@@ -829,8 +900,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-SlotMachine.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-BigAtlantisFrenzy",
@@ -839,8 +911,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-BigAtlantisFrenzy.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-GoldRushwithJohnnyCash",
@@ -849,8 +922,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-GoldRushwithJohnnyCash.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-LuckyDamaMuerta",
@@ -859,8 +933,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-LuckyDamaMuerta.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-CandyMonsta",
@@ -869,8 +944,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-CandyMonsta.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-MissCherryFruits",
@@ -879,8 +955,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-MissCherryFruits.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-LuckyLadyMoonMegaways",
@@ -889,8 +966,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-LuckyLadyMoonMegaways.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-DragonsGold100",
@@ -899,8 +977,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-DragonsGold100.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-MissCherryFruitsJPParty",
@@ -909,8 +988,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-MissCherryFruitsJPParty.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-TrampDay",
@@ -919,8 +999,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-TrampDay.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-ElvisFrogInVegas",
@@ -929,8 +1010,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-ElvisFrogInVegas.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-DigDigDigger",
@@ -939,8 +1021,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-DigDigDigger.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-AllLuckyClover",
@@ -949,8 +1032,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AllLuckyClover.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-DragonAgeHoldAndWin",
@@ -959,8 +1043,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-DragonAgeHoldAndWin.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-WildTiger",
@@ -969,8 +1054,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-WildTiger.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-DiamondOfJungle",
@@ -979,8 +1065,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-DiamondOfJungle.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Oof",
@@ -989,8 +1076,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-Oof.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Hottest666",
@@ -999,8 +1087,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-Hottest666.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-KeepersOfTheSecret7rst",
@@ -1010,7 +1099,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "VND,THB,IDR,BRL,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-gold-of-minos",
@@ -1020,7 +1110,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "PHP,VND,THB,IDR,BRL",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-GodOfWealthHoldAndWin",
@@ -1029,8 +1120,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-GodOfWealthHoldAndWin.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-WildHeart",
@@ -1039,8 +1131,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-WildHeart.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-grand-patron",
@@ -1050,7 +1143,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "IDR,BRL,PHP,VND,THB",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-AztecClusters",
@@ -1059,8 +1153,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AztecClusters.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-ChickenRush",
@@ -1069,8 +1164,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-ChickenRush.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-SecretBarMultiDiceX",
@@ -1079,8 +1175,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-SecretBarMultiDiceX.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-PopZen",
@@ -1089,8 +1186,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-PopZen.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-WildWestTrueways",
@@ -1099,8 +1197,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-WildWestTrueways.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Plinko",
@@ -1110,7 +1209,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "BRL,PHP,VND,THB,INR,IDR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Adventures",
@@ -1119,8 +1219,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-Adventures.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "THB,IDR,BRL,PHP,VND",
-            "status": "DEACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-GoldMagnate",
@@ -1129,8 +1230,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-GoldMagnate.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-LuckyDragonMultiDiceX",
@@ -1139,8 +1241,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-LuckyDragonMultiDiceX.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Lucky8MergeUp",
@@ -1149,8 +1252,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-Lucky8MergeUp.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-PandaLuck",
@@ -1159,8 +1263,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-PandaLuck.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Gemza",
@@ -1169,8 +1274,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-Gemza.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-AlienFruits2",
@@ -1179,8 +1285,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AlienFruits2.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-CatchTheGold",
@@ -1189,8 +1296,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-CatchTheGold.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-KrakensHunger",
@@ -1199,8 +1307,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-KrakensHunger.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-TrainToRioGrande",
@@ -1209,8 +1318,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-TrainToRioGrande.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-RoyalFruitsMultiLines",
@@ -1219,8 +1329,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-RoyalFruitsMultiLines.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-VoodooPeople",
@@ -1229,8 +1340,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-VoodooPeople.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-FortunaTrueways",
@@ -1239,8 +1351,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-FortunaTrueways.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-AztecsClawWildDice",
@@ -1250,7 +1363,8 @@
             "product_id": 1143,
             "product_code": 1058,
             "support_currency": "IDR,BRL,PHP,VND,THB",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-CarnivalBonanza",
@@ -1259,8 +1373,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-CarnivalBonanza.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-HauntedReels",
@@ -1269,8 +1384,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-HauntedReels.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-RotatingElement",
@@ -1279,8 +1395,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-RotatingElement.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Forgotten",
@@ -1289,8 +1406,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-Forgotten.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-SnoopDoggDollars",
@@ -1299,8 +1417,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-SnoopDoggDollars.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-Catdiana",
@@ -1309,8 +1428,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-Catdiana.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-GoldenPride",
@@ -1319,8 +1439,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-GoldenPride.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-WildMoonThieves",
@@ -1329,8 +1450,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-WildMoonThieves.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-TileMaster",
@@ -1339,8 +1461,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-TileMaster.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-LuckyDucky",
@@ -1349,8 +1472,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-LuckyDucky.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-GoldOfMinos",
@@ -1359,8 +1483,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-GoldOfMinos.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-SakuraRiches60",
@@ -1369,8 +1494,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-SakuraRiches60.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-DiscoParty",
@@ -1379,8 +1505,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-DiscoParty.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-HotChilliBells",
@@ -1389,8 +1516,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-HotChilliBells.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-JokersMillion",
@@ -1399,8 +1527,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-JokersMillion.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-AllStarFruits",
@@ -1409,8 +1538,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AllStarFruits.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-WildCardGang",
@@ -1419,8 +1549,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-WildCardGang.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-AliceWonderLuck",
@@ -1429,8 +1560,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-AliceWonderLuck.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-FortuneBells",
@@ -1439,8 +1571,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-FortuneBells.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-TreasureOfAnubis",
@@ -1449,8 +1582,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-TreasureOfAnubis.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-WildClustersP",
@@ -1459,8 +1593,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-WildClustersP.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-JungleQueen",
@@ -1469,8 +1604,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-JungleQueen.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-ZeusGoesWild",
@@ -1479,8 +1615,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-ZeusGoesWild.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-ArrowSlot",
@@ -1489,8 +1626,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-ArrowSlot.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-SugarMix",
@@ -1499,8 +1637,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-SugarMix.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-DoomsdaySaloon",
@@ -1509,8 +1648,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-DoomsdaySaloon.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-BlackbeardsBounty",
@@ -1519,8 +1659,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-BlackbeardsBounty.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-LuckyLu",
@@ -1529,8 +1670,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-LuckyLu.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-OlympusTrueways",
@@ -1539,8 +1681,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-OlympusTrueways.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-MysteryGarden",
@@ -1549,8 +1692,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-MysteryGarden.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-LokiLoot",
@@ -1559,8 +1703,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-LokiLoot.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-DragonQueenMegaways",
@@ -1569,8 +1714,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-DragonQueenMegaways.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-TrampDayTrueways",
@@ -1579,8 +1725,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-TrampDayTrueways.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "bgaming-LadyLuckyGun",
@@ -1589,13 +1736,47 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-LadyLuckyGun.png",
             "product_id": 1143,
             "product_code": 1058,
-            "support_currency": "IDR,PHP,VND,NZD,HKD,NGN,SAR,DKK,UYU,JPY,AMD,ZAR,BRL,EUR,PKR,TND,HRK,THB,KES,TWD,COP,PLN,USD,SGD,BDT,HUF,RON,SEK,AOA,UAH,UGX,MMK,KRW,MXN,AED,CLP,MAD,KHR,CHF,UZS,ZMW,QAR,MYR,NOK,TRY,XAF,CNY,USDT,ETB,CZK,PEN,RUB,ARS,AZN,BGN,GBP,MNT,CDF,INR,AUD,CAD,IRR",
-            "status": "ACTIVATED"
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "bgaming-CatsSoup",
+            "game_name": "Cat's Soup",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-CatsSoup.png",
+            "product_id": 1143,
+            "product_code": 1058,
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "bgaming-BigBucksSaloon",
+            "game_name": "Big Bucks Saloon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-BigBucksSaloon.png",
+            "product_id": 1143,
+            "product_code": 1058,
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "bgaming-BigTunaBonanza",
+            "game_name": "Big Tuna Bonanza",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1058/SLOT/bgaming-BigTunaBonanza.png",
+            "product_id": 1143,
+            "product_code": 1058,
+            "support_currency": "AZN,KHR,PEN,SEK,BRL,MYR,CZK,RON,UAH,MMK,EUR,CAD,BGN,BDT,NGN,ETB,GBP,HUF,NZD,UGX,AUD,KES,ARS,MAD,IDR,ZMW,LAK,KRW,HKD,PKR,USDT,COP,IRR,NOK,PHP,JPY,XAF,USD,TWD,CHF,UYU,INR,AOA,AED,DKK,TRY,ZAR,QAR,THB,SGD,TND,HRK,PLN,UZS,VND,CNY,CDF,CLP,AMD,MXN,SAR,RUB,MNT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         }
     ],
     "pagination": {
         "size": 0,
         "offset": 0,
-        "total": "165"
+        "total": "168"
     }
 }

@@ -9,8 +9,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/BAC.png",
             "product_id": 1312,
             "product_code": 1203,
-            "support_currency": "VND,CNY,MYR,AUD,BRL,INR,CAD,THB,USD,KRW,GBP,IDR,EUR,JPY,MMK",
-            "status": "ACTIVATED"
+            "support_currency": "THB,CNY,USD,EUR,IDR,BRL,VND,KRW,JPY,GBP,MMK,CAD,INR,MYR,AUD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "BJ",
@@ -19,8 +20,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/BJ.png",
             "product_id": 1312,
             "product_code": 1203,
-            "support_currency": "VND,CNY,MYR,AUD,BRL,INR,CAD,THB,USD,KRW,GBP,IDR,EUR,JPY,MMK",
-            "status": "ACTIVATED"
+            "support_currency": "THB,CNY,USD,EUR,IDR,BRL,VND,KRW,JPY,GBP,MMK,CAD,INR,MYR,AUD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "NN",
@@ -29,8 +31,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/NN.png",
             "product_id": 1312,
             "product_code": 1203,
-            "support_currency": "VND,CNY,MYR,AUD,BRL,INR,CAD,THB,USD,KRW,GBP,IDR,EUR,JPY,MMK",
-            "status": "ACTIVATED"
+            "support_currency": "THB,CNY,USD,EUR,IDR,BRL,VND,KRW,JPY,GBP,MMK,CAD,INR,MYR,AUD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "ROU",
@@ -39,8 +42,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/ROU.png",
             "product_id": 1312,
             "product_code": 1203,
-            "support_currency": "VND,CNY,MYR,AUD,BRL,INR,CAD,THB,USD,KRW,GBP,IDR,EUR,JPY,MMK",
-            "status": "ACTIVATED"
+            "support_currency": "THB,CNY,USD,EUR,IDR,BRL,VND,KRW,JPY,GBP,MMK,CAD,INR,MYR,AUD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "LBAC",
@@ -49,8 +53,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/LBAC.png",
             "product_id": 1312,
             "product_code": 1203,
-            "support_currency": "VND,CNY,MYR,AUD,BRL,INR,CAD,THB,USD,KRW,GBP,IDR,EUR,JPY,MMK",
-            "status": "ACTIVATED"
+            "support_currency": "THB,CNY,USD,EUR,IDR,BRL,VND,KRW,JPY,GBP,MMK,CAD,INR,MYR,AUD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "SG",
@@ -59,8 +64,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/SG.png",
             "product_id": 1312,
             "product_code": 1203,
-            "support_currency": "VND,CNY,MYR,AUD,BRL,INR,CAD,THB,USD,KRW,GBP,IDR,EUR,JPY,MMK",
-            "status": "ACTIVATED"
+            "support_currency": "THB,CNY,USD,EUR,IDR,BRL,VND,KRW,JPY,GBP,MMK,CAD,INR,MYR,AUD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "SHB",
@@ -69,8 +75,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/SHB.png",
             "product_id": 1312,
             "product_code": 1203,
-            "support_currency": "VND,CNY,MYR,AUD,BRL,INR,CAD,THB,USD,KRW,GBP,IDR,EUR,JPY,MMK",
-            "status": "ACTIVATED"
+            "support_currency": "THB,CNY,USD,EUR,IDR,BRL,VND,KRW,JPY,GBP,MMK,CAD,INR,MYR,AUD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "ZJH",
@@ -79,8 +86,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/ZJH.png",
             "product_id": 1312,
             "product_code": 1203,
-            "support_currency": "VND,CNY,MYR,AUD,BRL,INR,CAD,THB,USD,KRW,GBP,IDR,EUR,JPY,MMK",
-            "status": "ACTIVATED"
+            "support_currency": "THB,CNY,USD,EUR,IDR,BRL,VND,KRW,JPY,GBP,MMK,CAD,INR,MYR,AUD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "LINK",
@@ -89,8 +97,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/LINK.png",
             "product_id": 1312,
             "product_code": 1203,
-            "support_currency": "VND,CNY,MYR,AUD,BRL,INR,CAD,THB,USD,KRW,GBP,IDR,EUR,JPY,MMK",
-            "status": "ACTIVATED"
+            "support_currency": "THB,CNY,USD,EUR,IDR,BRL,VND,KRW,JPY,GBP,MMK,CAD,INR,MYR,AUD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "DT",
@@ -99,8 +108,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/DT.png",
             "product_id": 1312,
             "product_code": 1203,
-            "support_currency": "VND,CNY,MYR,AUD,BRL,INR,CAD,THB,USD,KRW,GBP,IDR,EUR,JPY,MMK",
-            "status": "ACTIVATED"
+            "support_currency": "THB,CNY,USD,EUR,IDR,BRL,VND,KRW,JPY,GBP,MMK,CAD,INR,MYR,AUD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "SBAC",
@@ -109,8 +119,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/SBAC.png",
             "product_id": 1312,
             "product_code": 1203,
-            "support_currency": "VND,CNY,MYR,AUD,BRL,INR,CAD,THB,USD,KRW,GBP,IDR,EUR,JPY,MMK",
-            "status": "ACTIVATED"
+            "support_currency": "THB,CNY,USD,EUR,IDR,BRL,VND,KRW,JPY,GBP,MMK,CAD,INR,MYR,AUD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "VDG",
@@ -119,8 +130,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1203/LIVE_CASINO/VDG.png",
             "product_id": 1312,
             "product_code": 1203,
-            "support_currency": "VND,CNY,MYR,AUD,BRL,INR,CAD,THB,USD,KRW,GBP,IDR,EUR,JPY,MMK",
-            "status": "ACTIVATED"
+            "support_currency": "THB,CNY,USD,EUR,IDR,BRL,VND,KRW,JPY,GBP,MMK,CAD,INR,MYR,AUD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         }
     ],
     "pagination": {

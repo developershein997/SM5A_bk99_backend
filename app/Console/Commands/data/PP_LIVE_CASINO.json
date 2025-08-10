@@ -10,7 +10,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1701",
@@ -19,8 +20,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/1701.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,PHP,USD,KRW,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,MMK,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "801",
@@ -29,8 +31,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/801.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1101",
@@ -39,8 +42,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/1101.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "701",
@@ -49,8 +53,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/701.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "204",
@@ -59,8 +64,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/204.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "402",
@@ -69,8 +75,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/402.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "401",
@@ -79,8 +86,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/401.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "240",
@@ -89,8 +97,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/240.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "203",
@@ -99,8 +108,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/203.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "201",
@@ -109,8 +119,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/201.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "225",
@@ -119,8 +130,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/225.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "545",
@@ -129,8 +141,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/545.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1501",
@@ -139,8 +152,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/1501.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "CZK,COP,AOA,CAD",
-            "status": "DEACTIVATED"
+            "support_currency": "MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1601",
@@ -149,8 +163,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/1601.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1401",
@@ -159,8 +174,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/1401.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "INR,CZK,COP,ETB,CHF,PHP,KES,AOA,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MYR,MXN,LBP,AOA,ETB,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1001",
@@ -169,8 +185,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/1001.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1024",
@@ -179,8 +196,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/1024.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "901",
@@ -190,7 +208,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "303",
@@ -200,7 +219,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "111",
@@ -209,8 +229,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/111.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,COP,PHP,USD,KES,KRW,AOA,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,AOA,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1301",
@@ -219,8 +240,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/1301.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "114",
@@ -229,8 +251,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/114.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,COP,PHP,USD,KES,KRW,AOA,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,AOA,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "104",
@@ -239,8 +262,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/104.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,COP,PHP,USD,KES,KRW,AOA,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,AOA,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "103",
@@ -250,7 +274,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,BRL,MYR,KES,BDT,THB,JPY,USDT,AOA,VND,USD,NGN,EUR,IDR,MMK,COP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "110",
@@ -259,8 +284,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/110.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,COP,PHP,USD,KES,KRW,AOA,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,AOA,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "108",
@@ -269,8 +295,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/108.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,COP,PHP,USD,KES,KRW,AOA,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,AOA,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "105",
@@ -279,8 +306,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/105.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,COP,PHP,USD,KES,KRW,AOA,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,AOA,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "101",
@@ -289,8 +317,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/101.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,COP,PHP,USD,KES,KRW,AOA,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,AOA,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "102",
@@ -299,8 +328,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/102.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,COP,PHP,USD,KES,KRW,AOA,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,AOA,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "107",
@@ -309,8 +339,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/107.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,COP,PHP,USD,KES,KRW,AOA,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,AOA,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "109",
@@ -319,8 +350,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/109.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,COP,PHP,USD,KES,KRW,AOA,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,AOA,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "711",
@@ -329,8 +361,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/711.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,COP,PHP,USD,KES,KRW,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "902a9",
@@ -340,7 +373,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "230a20",
@@ -349,8 +383,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/230a20.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "404",
@@ -359,8 +394,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/404.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "422f ",
@@ -370,7 +406,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "411",
@@ -379,8 +416,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/411.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "413",
@@ -389,8 +427,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/413.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "425",
@@ -399,8 +438,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/425.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "426b",
@@ -409,8 +449,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/426b.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "436",
@@ -419,8 +460,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/436.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "403",
@@ -429,8 +471,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/403.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "412",
@@ -439,8 +482,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/412.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "414",
@@ -449,8 +493,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/414.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "415",
@@ -459,8 +504,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/415.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "431",
@@ -469,8 +515,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/431.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "432",
@@ -479,8 +526,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/432.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "430",
@@ -489,8 +537,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/430.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "428",
@@ -499,8 +548,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/428.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "424f",
@@ -509,8 +559,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/424f.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "421f",
@@ -519,8 +570,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/421f.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "438f",
@@ -529,8 +581,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/438f.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "405",
@@ -539,8 +592,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/405.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "427b",
@@ -549,8 +603,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/427b.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "435",
@@ -559,8 +614,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/435.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "439",
@@ -569,8 +625,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/439.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "441",
@@ -579,8 +636,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/441.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "449",
@@ -589,8 +647,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/449.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "459",
@@ -599,18 +658,20 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/459.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "460",
-            "game_name": "Korean Speed Baccarat 4",
+            "game_name": "Korean Baccarat 1",
             "game_type": "LIVE_CASINO",
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/460.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "476",
@@ -619,8 +680,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/476.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,JPY,MXN,TND,LBP,VND,USD,AOA,KRW,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "477",
@@ -629,8 +691,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/477.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "BDT,IDR,VND,MMK,USD,KRW,THB,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "MMK,IDR,THB,JPY,VND,USD,KRW,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "450",
@@ -639,8 +702,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/450.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,JPY,MXN,TND,LBP,VND,USD,AOA,KRW,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "451",
@@ -649,8 +713,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/451.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,JPY,MXN,TND,LBP,VND,USD,AOA,KRW,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "488",
@@ -659,8 +724,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/488.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,JPY,MXN,TND,LBP,VND,USD,AOA,KRW,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "489",
@@ -669,8 +735,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/489.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,JPY,MXN,TND,LBP,VND,USD,AOA,KRW,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "490",
@@ -679,8 +746,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/490.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "BDT,IDR,VND,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,JPY,MXN,TND,LBP,VND,USD,AOA,KRW,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "481",
@@ -689,8 +757,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/481.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "BDT,IDR,VND,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,JPY,MXN,TND,LBP,VND,USD,AOA,KRW,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "482",
@@ -699,8 +768,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/482.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "BDT,IDR,VND,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,JPY,MXN,TND,LBP,VND,USD,AOA,KRW,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "483",
@@ -709,8 +779,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/483.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "BDT,IDR,VND,MMK,CZK,COP,CAD,ETB,CHF,USD,KES,KRW,AOA,TND,IRR,LBP,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,MMK,KES,IRR,IDR,THB,MYR,JPY,MXN,TND,LBP,VND,USD,AOA,KRW,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "479",
@@ -719,8 +790,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/479.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "BDT,IDR,VND,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,JPY,MXN,TND,LBP,VND,USD,AOA,KRW,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "454",
@@ -729,8 +801,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/454.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "BDT,IDR,VND,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,JPY,MXN,TND,LBP,VND,USD,AOA,KRW,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "455",
@@ -739,8 +812,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/455.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "CZK,COP,CAD,ETB,CHF,PHP,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "456",
@@ -749,8 +823,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/456.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "CZK,COP,CAD,ETB,CHF,PHP,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "457",
@@ -760,7 +835,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "AOA",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "458",
@@ -769,8 +845,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/458.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "CZK,COP,CAD,ETB,CHF,PHP,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "466",
@@ -779,8 +856,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/466.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "CZK,COP,CAD,ETB,CHF,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "467",
@@ -789,8 +867,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/467.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "CZK,COP,CAD,ETB,CHF,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "468",
@@ -799,8 +878,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/468.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "CZK,COP,CAD,ETB,CHF,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "433",
@@ -809,8 +889,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/433.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "491",
@@ -819,8 +900,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/491.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "BDT,IDR,VND,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,MMK,KES,IRR,IDR,THB,JPY,MXN,TND,LBP,VND,USD,AOA,KRW,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "434",
@@ -829,8 +911,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/434.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "442",
@@ -839,8 +922,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/442.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "227",
@@ -849,8 +933,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/227.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "206",
@@ -859,8 +944,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/206.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "221",
@@ -869,8 +955,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/221.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "222",
@@ -879,8 +966,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/222.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "224",
@@ -889,8 +977,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/224.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "223",
@@ -899,8 +988,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/223.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "229",
@@ -910,7 +1000,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "PKR,EUR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "230",
@@ -919,8 +1010,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/230.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,INR,MMK,COP,USD,KES,KRW,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,USD,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "233",
@@ -929,8 +1021,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/233.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "234",
@@ -939,8 +1032,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/234.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "213",
@@ -949,8 +1043,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/213.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "237",
@@ -959,8 +1054,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/237.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "262",
@@ -969,8 +1065,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/262.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "INR,CZK,COP,CAD,ETB,CHF,PHP,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "208",
@@ -979,8 +1076,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/208.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "CZK,COP,CAD,ETB,CHF,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "205",
@@ -989,8 +1087,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/205.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "226",
@@ -999,8 +1098,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/226.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "210",
@@ -1009,8 +1109,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/210.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "211",
@@ -1019,8 +1120,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/211.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "711a",
@@ -1029,8 +1131,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/711a.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "INR,CZK,COP,CAD,ETB,CHF,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "INR,COP,CZK,KES,IRR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "2101",
@@ -1039,8 +1142,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/2101.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "PHP,USD",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,MYR,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "904",
@@ -1050,7 +1154,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "521",
@@ -1060,7 +1165,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "522",
@@ -1070,7 +1176,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "523",
@@ -1080,7 +1187,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "524",
@@ -1090,7 +1198,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "525",
@@ -1100,7 +1209,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "526",
@@ -1110,7 +1220,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "527",
@@ -1120,7 +1231,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "528",
@@ -1130,7 +1242,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "529",
@@ -1140,7 +1253,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "530",
@@ -1150,7 +1264,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "539",
@@ -1160,7 +1275,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "538",
@@ -1170,7 +1286,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "537",
@@ -1180,7 +1297,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "536",
@@ -1190,7 +1308,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "535",
@@ -1200,7 +1319,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "540",
@@ -1210,7 +1330,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "511",
@@ -1220,7 +1341,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "512",
@@ -1230,7 +1352,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "513",
@@ -1240,7 +1363,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "514",
@@ -1250,7 +1374,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "515",
@@ -1260,7 +1385,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "516",
@@ -1270,7 +1396,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "517",
@@ -1280,7 +1407,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "518",
@@ -1290,7 +1418,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "519",
@@ -1300,7 +1429,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "520",
@@ -1310,7 +1440,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "598",
@@ -1320,7 +1451,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "599",
@@ -1330,7 +1462,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "600",
@@ -1340,7 +1473,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "601",
@@ -1350,7 +1484,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "602",
@@ -1360,7 +1495,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "603",
@@ -1370,7 +1506,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "590",
@@ -1380,7 +1517,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "730",
@@ -1390,7 +1528,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "731",
@@ -1400,7 +1539,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "767",
@@ -1410,7 +1550,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "768",
@@ -1420,7 +1561,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "769",
@@ -1430,7 +1572,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "771",
@@ -1440,7 +1583,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "607",
@@ -1450,7 +1594,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "608",
@@ -1460,7 +1605,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "609",
@@ -1470,7 +1616,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "770",
@@ -1480,7 +1627,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "772",
@@ -1490,7 +1638,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "773",
@@ -1500,7 +1649,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "774",
@@ -1510,7 +1660,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "775",
@@ -1520,7 +1671,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "301",
@@ -1530,7 +1682,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "302",
@@ -1540,7 +1693,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "304",
@@ -1550,7 +1704,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "305",
@@ -1560,7 +1715,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "662",
@@ -1570,7 +1726,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "663",
@@ -1580,7 +1737,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "664",
@@ -1590,7 +1748,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "541",
@@ -1600,7 +1759,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "542",
@@ -1610,7 +1770,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "543",
@@ -1620,7 +1781,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "544",
@@ -1630,7 +1792,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "684",
@@ -1640,7 +1803,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "685",
@@ -1650,7 +1814,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "562",
@@ -1660,7 +1825,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "563",
@@ -1670,7 +1836,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "564",
@@ -1680,7 +1847,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "565",
@@ -1690,7 +1858,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "555",
@@ -1700,7 +1869,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "556",
@@ -1710,7 +1880,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "557",
@@ -1720,7 +1891,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "558",
@@ -1730,7 +1902,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "559",
@@ -1740,7 +1913,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "560",
@@ -1750,7 +1924,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "561",
@@ -1760,7 +1935,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "551",
@@ -1770,7 +1946,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "552",
@@ -1780,7 +1957,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "553",
@@ -1790,7 +1968,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "554",
@@ -1800,7 +1979,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "594",
@@ -1810,7 +1990,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "595",
@@ -1820,7 +2001,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "596",
@@ -1830,7 +2012,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "597",
@@ -1840,7 +2023,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "593",
@@ -1850,7 +2034,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "620",
@@ -1860,7 +2045,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "621",
@@ -1870,7 +2056,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "626",
@@ -1880,7 +2067,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "616",
@@ -1890,7 +2078,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "617",
@@ -1900,7 +2089,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "618",
@@ -1910,7 +2100,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "619",
@@ -1920,7 +2111,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "569",
@@ -1930,7 +2122,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "570",
@@ -1940,7 +2133,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "369",
@@ -1950,7 +2144,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "566",
@@ -1960,7 +2155,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "567",
@@ -1970,7 +2166,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "568",
@@ -1980,7 +2177,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "591",
@@ -1990,7 +2188,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "592",
@@ -2000,7 +2199,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "604",
@@ -2010,7 +2210,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "605",
@@ -2020,7 +2221,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "606",
@@ -2030,7 +2232,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "612",
@@ -2040,7 +2243,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "613",
@@ -2050,7 +2254,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "614",
@@ -2060,7 +2265,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "615",
@@ -2070,7 +2276,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "370",
@@ -2080,7 +2287,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "371",
@@ -2090,7 +2298,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "546",
@@ -2100,7 +2309,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "547",
@@ -2110,7 +2320,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "548",
@@ -2120,7 +2331,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "549",
@@ -2130,7 +2342,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "550",
@@ -2140,7 +2353,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "622",
@@ -2150,7 +2364,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "623",
@@ -2160,7 +2375,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "624",
@@ -2170,7 +2386,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "625",
@@ -2180,7 +2397,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "676",
@@ -2190,7 +2408,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "677",
@@ -2200,7 +2419,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "678",
@@ -2210,7 +2430,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "673",
@@ -2220,7 +2441,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "674",
@@ -2230,7 +2452,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "675",
@@ -2240,7 +2463,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "683",
@@ -2250,7 +2474,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "776",
@@ -2260,7 +2485,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "777",
@@ -2270,7 +2496,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "778",
@@ -2280,7 +2507,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "658",
@@ -2290,7 +2518,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "659",
@@ -2300,7 +2529,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "660",
@@ -2310,7 +2540,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "661",
@@ -2320,7 +2551,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "641",
@@ -2330,7 +2562,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "642",
@@ -2340,7 +2573,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "643",
@@ -2350,7 +2584,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "644",
@@ -2360,7 +2595,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "645",
@@ -2370,7 +2606,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "646",
@@ -2380,7 +2617,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "647",
@@ -2390,7 +2628,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,SEK,BRL,CAD,MYR,CZK,KES,IRR,BDT,THB,JPY,USDT,NOK,NZD,AOA,CHF,HUF,VND,USD,NGN,EUR,TND,ETB,LKR,IDR,MMK,COP,LBP,GBP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "681",
@@ -2400,7 +2639,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "682",
@@ -2410,7 +2650,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "687",
@@ -2420,7 +2661,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "688",
@@ -2430,7 +2672,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "686",
@@ -2440,7 +2683,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "779",
@@ -2450,7 +2694,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "780",
@@ -2460,7 +2705,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "781",
@@ -2470,7 +2716,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "671",
@@ -2480,7 +2727,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "672",
@@ -2490,7 +2738,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "721",
@@ -2499,8 +2748,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/721.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "CZK,COP,CAD,ETB,CHF,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "722",
@@ -2509,8 +2759,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/722.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "CZK,COP,CAD,ETB,CHF,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "723",
@@ -2519,8 +2770,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/723.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "CZK,COP,CAD,ETB,CHF,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "724",
@@ -2529,8 +2781,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/724.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "CZK,COP,CAD,ETB,CHF,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "725",
@@ -2539,8 +2792,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/725.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "CZK,COP,CAD,ETB,CHF,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "747",
@@ -2550,7 +2804,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "748",
@@ -2560,7 +2815,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "749",
@@ -2570,7 +2826,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "750",
@@ -2580,7 +2837,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "751",
@@ -2590,7 +2848,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3020",
@@ -2600,7 +2859,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3019",
@@ -2610,7 +2870,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3015",
@@ -2620,7 +2881,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3010",
@@ -2630,7 +2892,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3009",
@@ -2640,7 +2903,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3008",
@@ -2650,7 +2914,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3005",
@@ -2660,7 +2925,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3004",
@@ -2670,7 +2936,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3021",
@@ -2680,7 +2947,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3018",
@@ -2690,7 +2958,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3017",
@@ -2700,7 +2969,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3016",
@@ -2710,7 +2980,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3007",
@@ -2720,7 +2991,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3006",
@@ -2730,7 +3002,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3003",
@@ -2740,7 +3013,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3002",
@@ -2750,7 +3024,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3001",
@@ -2760,7 +3035,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3024",
@@ -2770,7 +3046,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3025",
@@ -2780,7 +3057,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3046",
@@ -2790,7 +3068,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3047",
@@ -2800,7 +3079,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3048",
@@ -2810,7 +3090,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3049",
@@ -2820,7 +3101,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3050",
@@ -2830,7 +3112,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3051",
@@ -2840,7 +3123,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3052",
@@ -2850,7 +3134,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3053",
@@ -2860,7 +3145,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3054",
@@ -2870,7 +3156,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3055",
@@ -2880,7 +3167,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "TBC",
@@ -2890,7 +3178,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MMK",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "4001",
@@ -2899,8 +3188,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/4001.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "CZK,COP,CAD,ETB,CHF,PHP,KES,AOA,TND,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,COP,CZK,KES,IRR,MYR,MXN,TND,LBP,AOA,ETB,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "vs20mesmult",
@@ -2910,7 +3200,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "KES",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "vs20forgewilds",
@@ -2920,7 +3211,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "KES",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "321",
@@ -2930,7 +3222,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,BRL,MYR,KES,BDT,THB,JPY,VND,USD,NGN,EUR,IDR,MMK,COP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "123",
@@ -2939,8 +3232,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/123.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,PHP,USD,KES,KRW,AOA,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,MMK,KES,IDR,THB,MYR,NGN,JPY,MXN,BRL,VND,USD,AOA,KRW,EUR,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3093",
@@ -2950,7 +3244,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KES,COP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "422f",
@@ -2959,8 +3254,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/422f.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "323",
@@ -2970,7 +3266,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,BRL,MYR,KES,BDT,THB,JPY,VND,USD,NGN,EUR,IDR,MMK,COP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "438",
@@ -2980,7 +3277,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "COP,KES,MXN",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "427",
@@ -2990,7 +3288,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "COP,KES,MXN",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3094",
@@ -3000,7 +3299,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KES,COP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "322",
@@ -3010,7 +3310,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,BRL,MYR,KES,BDT,THB,JPY,VND,USD,NGN,EUR,IDR,MMK,COP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3014",
@@ -3020,7 +3321,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,SEK,CAD,CZK,KES,IRR,USDT,NOK,NZD,AOA,CHF,HUF,TND,ETB,LKR,COP,LBP,GBP,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3092",
@@ -3030,7 +3332,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KES,COP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "422",
@@ -3040,7 +3343,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "COP,KES,MXN",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "424",
@@ -3050,7 +3354,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "COP,KES,MXN",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "902",
@@ -3060,7 +3365,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KRW,PKR,BRL,MYR,KES,BDT,THB,JPY,USD,NGN,EUR,IDR,MMK,COP,KHR,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "421",
@@ -3070,7 +3376,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "COP,KES,MXN",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3091",
@@ -3080,7 +3387,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KES,COP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3095",
@@ -3090,7 +3398,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,KES,COP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "1320",
@@ -3099,8 +3408,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/1320.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "426",
@@ -3110,7 +3420,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "COP,KES,MXN",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3135",
@@ -3120,7 +3431,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USD,COP,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3134",
@@ -3130,7 +3442,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USD,COP,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3133",
@@ -3140,7 +3453,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USD,COP,PHP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "287",
@@ -3149,8 +3463,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/287.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "INR,COP,PHP,USD,KES,BRL,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,KES,MYR,JPY,MXN,BRL,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "698",
@@ -3160,7 +3475,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USDT,USD,COP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "372",
@@ -3170,7 +3486,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USDT,USD,COP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "378",
@@ -3180,7 +3497,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USDT,USD,COP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "374",
@@ -3190,7 +3508,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USDT,USD,COP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "381",
@@ -3200,7 +3519,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USDT,USD,COP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "376",
@@ -3210,7 +3530,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USDT,USD,COP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "375",
@@ -3220,7 +3541,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USDT,USD,COP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "373",
@@ -3230,7 +3552,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USDT,USD,COP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "377",
@@ -3240,7 +3563,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USDT,USD,COP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "379",
@@ -3250,7 +3574,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USDT,USD,COP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "380",
@@ -3260,7 +3585,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USDT,USD,COP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "690",
@@ -3270,7 +3596,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USDT,USD,COP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "689",
@@ -3280,7 +3607,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USDT,USD,COP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "695",
@@ -3290,7 +3618,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN,BRL,KES,JPY,USDT,USD,COP,INR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "2201",
@@ -3299,8 +3628,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/2201.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "266",
@@ -3309,8 +3639,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/266.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,EUR,PHP,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,MYR,JPY,EUR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "912",
@@ -3320,7 +3651,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MYR,JPY,USDT",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "906",
@@ -3330,7 +3662,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MYR,JPY,USDT",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "298",
@@ -3339,8 +3672,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/298.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "951",
@@ -3349,8 +3683,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/951.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3253",
@@ -3360,7 +3695,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "USDT,IDR,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3252",
@@ -3370,7 +3706,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "USDT,IDR,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3255",
@@ -3380,7 +3717,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "USDT,IDR,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3256",
@@ -3390,7 +3728,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "USDT,IDR",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3254",
@@ -3400,7 +3739,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "USDT,IDR,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3141",
@@ -3410,7 +3750,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3142",
@@ -3420,7 +3761,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3143",
@@ -3430,7 +3772,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3145",
@@ -3440,7 +3783,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3144",
@@ -3450,7 +3794,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "326",
@@ -3460,7 +3805,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "USDT,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3238",
@@ -3470,7 +3816,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "IDR,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3239",
@@ -3480,7 +3827,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "IDR,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3231",
@@ -3490,7 +3838,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "IDR,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3233",
@@ -3500,7 +3849,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "IDR,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3232",
@@ -3510,7 +3860,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "IDR,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3234",
@@ -3520,7 +3871,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "IDR,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3240",
@@ -3530,7 +3882,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "IDR,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3241",
@@ -3540,7 +3893,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "IDR,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3242",
@@ -3550,7 +3904,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "IDR,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "3235",
@@ -3560,7 +3915,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "IDR,PHP",
-            "status": "DEACTIVATED"
+            "status": "DEACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "452",
@@ -3569,8 +3925,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/452.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "BDT,IDR,VND,MMK,PHP,USD,KRW,THB,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,MMK,IDR,THB,MYR,JPY,VND,USD,KRW,BDT",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "270",
@@ -3579,8 +3936,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/270.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "IDR,PHP,USD,KRW,THB,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,THB,MYR,JPY,USD,KRW",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "480",
@@ -3589,8 +3947,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/480.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "IDR,VND,PHP,USD,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,MYR,JPY,VND,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "292",
@@ -3599,8 +3958,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/292.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "IDR,PHP,USD,KRW,THB,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,THB,MYR,JPY,USD,KRW",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "950",
@@ -3609,8 +3969,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/950.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "IDR,VND,PHP,USD,TND,JPY",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,IDR,JPY,TND,VND,USD",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "484",
@@ -3619,8 +3980,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/484.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "421w",
@@ -3630,7 +3992,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "422n",
@@ -3640,7 +4003,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "424v",
@@ -3650,7 +4014,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "427n",
@@ -3660,7 +4025,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "438p",
@@ -3670,7 +4036,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "426i",
@@ -3680,7 +4047,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "BRL",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "461",
@@ -3689,8 +4057,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/461.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "261",
@@ -3699,8 +4068,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/261.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "422a4",
@@ -3710,7 +4080,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "421a2",
@@ -3720,7 +4091,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "427a2",
@@ -3730,7 +4102,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "424a3",
@@ -3740,7 +4113,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "438a1",
@@ -3750,7 +4124,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "426a2",
@@ -3760,7 +4135,8 @@
             "product_id": 1184,
             "product_code": 1006,
             "support_currency": "MXN",
-            "status": "ACTIVATED"
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "851",
@@ -3769,28 +4145,31 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/851.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "499",
-            "game_name": "Korean Speed Baccarat 6",
+            "game_name": "Korean Baccarat 2",
             "game_type": "LIVE_CASINO",
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/499.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "28401",
-            "game_name": "French Roulette",
+            "game_name": "French Roulette la Partage",
             "game_type": "LIVE_CASINO",
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/28401.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "MYR,NGN,EUR,BDT,IDR,VND,INR,MMK,CZK,COP,CAD,ETB,CHF,PHP,USD,KES,KRW,AOA,TND,IRR,LBP,BRL,THB,JPY,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,MMK,KES,IRR,IDR,THB,MYR,NGN,JPY,MXN,TND,LBP,BRL,VND,USD,AOA,KRW,EUR,ETB,BDT,CAD,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "2701",
@@ -3799,8 +4178,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/2701.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "INR,CZK,COP,ETB,CHF,PHP,KES,AOA,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MYR,MXN,LBP,AOA,ETB,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "169",
@@ -3809,8 +4189,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/169.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "INR,CZK,COP,ETB,CHF,PHP,KES,AOA,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MXN,LBP,AOA,ETB,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "28201",
@@ -3819,8 +4200,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/28201.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "INR,CZK,COP,ETB,CHF,PHP,KES,AOA,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MYR,MXN,LBP,AOA,ETB,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "2601",
@@ -3829,8 +4211,9 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/2601.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "INR,CZK,COP,ETB,CHF,PHP,KES,AOA,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MYR,MXN,LBP,AOA,ETB,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         },
         {
             "game_code": "28301",
@@ -3839,13 +4222,36 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/28301.png",
             "product_id": 1184,
             "product_code": 1006,
-            "support_currency": "INR,CZK,COP,ETB,CHF,PHP,KES,AOA,IRR,LBP,MXN",
-            "status": "ACTIVATED"
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MYR,MXN,LBP,AOA,ETB,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "217",
+            "game_name": "Auto Mega Roulette 2",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/217.png",
+            "product_id": 1184,
+            "product_code": 1006,
+            "support_currency": "MYR",
+            "status": "ACTIVATED",
+            "allow_free_round": false
+        },
+        {
+            "game_code": "703a1",
+            "game_name": "Korean Mega Sic Bo",
+            "game_type": "LIVE_CASINO",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1006/LIVE_CASINO/703a1.png",
+            "product_id": 1184,
+            "product_code": 1006,
+            "support_currency": "PHP,INR,COP,CZK,KES,IRR,MXN,LBP,AOA,ETB,CHF",
+            "status": "ACTIVATED",
+            "allow_free_round": false
         }
     ],
     "pagination": {
         "size": 0,
         "offset": 0,
-        "total": "384"
+        "total": "386"
     }
 }
