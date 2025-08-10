@@ -29,7 +29,7 @@ class GscPlusProductTableSeeder extends Seeder
         $orderCounter = 1;
 
         // Insert each product from the JSON data
-        foreach ($jsonData['provider'] as $product) {
+        foreach ($jsonData['ProviderGames'] as $product) {
             DB::table('products')->insert([
                 'provider' => $product['provider'],
                 'currency' => $product['currency'],

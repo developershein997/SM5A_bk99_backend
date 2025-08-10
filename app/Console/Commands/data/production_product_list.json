@@ -1,7 +1,7 @@
 {
-    "provider": 
+    "ProviderGames": 
    [
-    [
+    
         {
             "provider": "SBO",
             "currency": "MMK",
@@ -388,7 +388,7 @@
             "product_title": "SmartSoft"
         }
     ]
-   ]
+   
         
        
 }
