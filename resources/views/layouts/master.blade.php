@@ -4,6 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href={{'img/bk999.png'}} />
     <title>BK999| Dashboard</title>
 
     <link rel="stylesheet"
