@@ -54,6 +54,7 @@ class DepositRequestController extends Controller
 
         Http::post('https://panda666.pro/send-notification', [
             'message' => "New form submitted: " . $depositMessage ,
+            'agent_id'  => $player->agent_id
         ]);
 
 

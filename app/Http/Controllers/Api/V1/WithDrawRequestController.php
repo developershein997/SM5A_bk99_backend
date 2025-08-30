@@ -48,6 +48,7 @@ class WithDrawRequestController extends Controller
 
         Http::post('https://panda666.pro/send-notification', [
             'message' => "New form submitted: " . $withdrawMessage,
+            'agent_id'  => $player->agent_id
         ]);
 
         return $this->success($withdraw, 'Withdraw Request Success');

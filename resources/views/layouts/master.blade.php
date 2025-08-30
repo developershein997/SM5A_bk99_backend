@@ -104,7 +104,7 @@
             </ul>
         </nav>
         <!-- /.navbar -->
-   <div id="toast-container"></div>
+
         <!-- Main Sidebar Container -->
         <aside class="main-sidebar sidebar-dark-primary elevation-4">
             <!-- Brand Logo -->
@@ -618,7 +618,7 @@
         </aside>
 
         <div class="content-wrapper">
-
+                 <div id="toast-container"></div>
             @yield('content')
         </div>
         <footer class="main-footer">
@@ -701,37 +701,45 @@
         });
     </script>
 
-     <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
-    <script>
-        const socket = io("https://panda666.pro");
+   <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+<script>
 
-        socket.on("connect", () => {
-            console.log("Connected with id:", socket.id);
-        });
+    const socket = io("https://panda666.pro", {
+        transports: ["websocket"],
+    });
 
-        // Toast function
-        function showToast(message) {
-            const container = document.getElementById("toast-container");
-            const toast = document.createElement("div");
-            toast.classList.add("toast");
-            toast.textContent = message;
-            container.appendChild(toast);
+    socket.on("connect", () => {
+        console.log("Connected with id:", socket.id);
 
 
-            setTimeout(() => toast.classList.add("show"), 100);
+        const agentId = "{{ Auth::user()->id }}";
+        socket.emit("joinRoom", agentId);
+
+        console.log("Joined room:", "agent_" + agentId);
+    });
 
 
-            setTimeout(() => {
-                toast.classList.remove("show");
-                setTimeout(() => toast.remove(), 500);
-            }, 5000);
-        }
+    function showToast(message) {
+        const container = document.getElementById("toast-container");
+        const toast = document.createElement("div");
+        toast.classList.add("toast");
+        toast.textContent = message;
+        container.appendChild(toast);
 
-        socket.on("notification", (data) => {
-            console.log("Notification received:", data);
-            showToast("🔔 " + data.message); // toast notification
-        });
-    </script>
+        setTimeout(() => toast.classList.add("show"), 100);
+
+        setTimeout(() => {
+            toast.classList.remove("show");
+            setTimeout(() => toast.remove(), 500);
+        }, 5000);
+    }
+
+
+    socket.on("notification", (data) => {
+        console.log("Notification received:", data);
+        showToast("🔔 " + data.message);
+    });
+</script>
 
 
 
