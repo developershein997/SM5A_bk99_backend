@@ -104,7 +104,7 @@
             </ul>
         </nav>
         <!-- /.navbar -->
-
+   <div id="toast-container"></div>
         <!-- Main Sidebar Container -->
         <aside class="main-sidebar sidebar-dark-primary elevation-4">
             <!-- Brand Logo -->
@@ -698,6 +698,38 @@
             var dropdownList = dropdownElementList.map(function(dropdownToggleEl) {
                 return new bootstrap.Dropdown(dropdownToggleEl)
             })
+        });
+    </script>
+
+     <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+    <script>
+        const socket = io("https://panda666.pro");
+
+        socket.on("connect", () => {
+            console.log("Connected with id:", socket.id);
+        });
+
+        // Toast function
+        function showToast(message) {
+            const container = document.getElementById("toast-container");
+            const toast = document.createElement("div");
+            toast.classList.add("toast");
+            toast.textContent = message;
+            container.appendChild(toast);
+
+
+            setTimeout(() => toast.classList.add("show"), 100);
+
+
+            setTimeout(() => {
+                toast.classList.remove("show");
+                setTimeout(() => toast.remove(), 500);
+            }, 5000);
+        }
+
+        socket.on("notification", (data) => {
+            console.log("Notification received:", data);
+            showToast("🔔 " + data.message); // toast notification
         });
     </script>
 

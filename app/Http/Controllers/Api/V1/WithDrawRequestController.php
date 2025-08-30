@@ -2,14 +2,15 @@
 
 namespace App\Http\Controllers\Api\V1;
 
-use App\Http\Controllers\Controller;
-use App\Http\Resources\WithdrawResource;
-use App\Models\WithDrawRequest;
-use App\Traits\HttpResponses;
 use Exception;
 use Illuminate\Http\Request;
+use App\Traits\HttpResponses;
+use App\Models\WithDrawRequest;
+use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Http;
+use App\Http\Resources\WithdrawResource;
 
 class WithDrawRequestController extends Controller
 {
@@ -41,6 +42,12 @@ class WithDrawRequestController extends Controller
             'account_name' => $request->account_name,
             'account_number' => $request->account_number,
             'payment_type_id' => $request->payment_type_id,
+        ]);
+
+        $withdrawMessage = "Withdraw" ;
+
+        Http::post('https://panda666.pro/send-notification', [
+            'message' => "New form submitted: " . $withdrawMessage,
         ]);
 
         return $this->success($withdraw, 'Withdraw Request Success');

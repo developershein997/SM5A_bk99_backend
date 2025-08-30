@@ -2,16 +2,17 @@
 
 namespace App\Http\Controllers\Api\V1;
 
-use App\Http\Controllers\Controller;
-use App\Http\Resources\DepositLogResource;
-use App\Models\DepositRequest;
 use App\Models\User;
-use App\Notifications\PlayerDepositNotification;
-use App\Traits\HttpResponses;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Auth;
+use App\Traits\HttpResponses;
+use App\Models\DepositRequest;
 use Illuminate\Support\Facades\Log;
+use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Http;
+use App\Http\Resources\DepositLogResource;
 use Illuminate\Support\Facades\Notification;
+use App\Notifications\PlayerDepositNotification;
 
 class DepositRequestController extends Controller
 {
@@ -48,6 +49,14 @@ class DepositRequestController extends Controller
         $deposit = DepositRequest::create($depositData);
 
         $agent = User::find($player->agent_id);
+
+        $depositMessage = "Deposit";
+
+        Http::post('https://panda666.pro/send-notification', [
+            'message' => "New form submitted: " . $depositMessage ,
+        ]);
+
+
         if ($agent) {
             Log::info('Triggering PlayerDepositNotification for agent:', [
                 'agent_id' => $player->agent_id,
