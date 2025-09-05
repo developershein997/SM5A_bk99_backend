@@ -2,23 +2,24 @@
 
 namespace App\Http\Controllers;
 
-use App\Enums\TransactionName;
+use Exception;
+use Carbon\Carbon;
+use App\Models\User;
 use App\Enums\UserType;
-use App\Models\Admin\UserLog;
+use App\Models\Product;
+use Illuminate\Log\Logger;
 use App\Models\Transaction;
 use App\Models\TransferLog;
-use App\Models\User;
-use App\Services\WalletService;
-use Carbon\Carbon;
-use Exception;
+use Illuminate\Support\Str;
 use Illuminate\Http\Request;
-use Illuminate\Log\Logger;
-use Illuminate\Support\Facades\Auth;
+use App\Models\Admin\UserLog;
+use App\Enums\TransactionName;
+use App\Services\WalletService;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Gate;
 use Illuminate\Support\Facades\Hash;
-use Illuminate\Support\Facades\Log;
-use Illuminate\Support\Str;
 use Symfony\Component\HttpFoundation\Response;
 
 class HomeController extends Controller
@@ -275,5 +276,23 @@ class HomeController extends Controller
     }
 
     // updated by KS
+    public function providerIndex() {
+        $providers = Product::all();
+
+        return view('admin.providers.index',compact('providers'));
+    }
+
+    public function providerStatusUpdate($id) {
+        $provider = Product::find($id);
+        if($provider->game_list_status == 1) {
+            $provider->game_list_status = 0;
+        } else {
+            $provider->game_list_status = 1;
+        }
+
+        $provider->save();
+
+        return redirect()->route('admin.provider-index');
+    }
 
 }

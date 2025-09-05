@@ -245,4 +245,9 @@ Route::group([
     // two digit end
     // shan player report
     Route::get('/shan-player-report', [ShanPlayerReportController::class, 'index'])->name('shan.player.report');
+
+    // Provider Status
+    Route::get('/provider-index',[HomeController::class,'providerIndex'])->name('provider-index');
+    Route::get('/provider-index/{id}',[HomeController::class,'providerStatusUpdate']);
+
 });
