@@ -27,6 +27,18 @@ class UsersTableSeeder extends Seeder
         );
         $walletService->deposit($owner, 500_000_00000000, TransactionName::CapitalDeposit);
 
+         $senior = $this->createUser(
+            UserType::Senior,
+            'Senior1',
+            'Senior',
+            '09123456789',
+             $owner->id,
+            'OWNER'.Str::random(6)
+        );
+        $initialBalance1 = 10000000;
+        // $walletService->deposit($owner$senior, 500_000, TransactionName::CapitalDeposit);
+         $walletService->transfer($owner , $senior, $initialBalance1, TransactionName::CreditTransfer);
+
         // Create system wallet
         $systemWallet = $this->createUser(
             UserType::SystemWallet,
@@ -38,6 +50,7 @@ class UsersTableSeeder extends Seeder
         );
         $walletService->deposit($systemWallet, 500 * 100_0000, TransactionName::CapitalDeposit);
 
+
         // Create 10 agents
         for ($i = 1; $i <= 2; $i++) {
             $agent = $this->createUser(
@@ -45,12 +58,12 @@ class UsersTableSeeder extends Seeder
                 "BKA $i",
                 'BKA'.str_pad($i, 3, '0', STR_PAD_LEFT),
                 '091123456'.str_pad($i, 2, '0', STR_PAD_LEFT),
-                $owner->id,
+                $senior->id,
                 'BKA'.Str::random(6)
             );
             // Random initial balance between 1.5M to 2.5M
             $initialBalance = rand(1, 2) * 100_000;
-            $walletService->transfer($owner, $agent, $initialBalance, TransactionName::CreditTransfer);
+            $walletService->transfer($senior , $agent, $initialBalance, TransactionName::CreditTransfer);
 
             // Create players directly under each agent (no sub-agents)
             for ($k = 1; $k <= 4; $k++) {

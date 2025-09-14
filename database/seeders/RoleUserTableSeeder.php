@@ -13,10 +13,11 @@ class RoleUserTableSeeder extends Seeder
 {
     private const ROLE_IDS = [
         UserType::Owner->value => 1,
-        UserType::Agent->value => 2,
-        UserType::SubAgent->value => 3,
-        UserType::Player->value => 4,
-        UserType::SystemWallet->value => 5,
+        UserType::Senior->value => 2,
+        UserType::Agent->value => 3,
+        UserType::SubAgent->value => 4,
+        UserType::Player->value => 5,
+        UserType::SystemWallet->value => 6,
     ];
 
     private const ROLE_NAMES = [
@@ -91,7 +92,7 @@ class RoleUserTableSeeder extends Seeder
     private function cleanupExistingAssignments(): void
     {
         try {
-            DB::table('role_user')->truncate();
+            DB::table('role_user')->delete();
             Log::info('Cleaned up existing role assignments');
         } catch (\Exception $e) {
             Log::error('Failed to cleanup existing role assignments: '.$e->getMessage());

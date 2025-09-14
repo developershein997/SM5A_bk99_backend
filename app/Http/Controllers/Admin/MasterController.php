@@ -2,20 +2,20 @@
 
 namespace App\Http\Controllers\Admin;
 
-use App\Enums\TransactionName;
+use Exception;
+use App\Models\User;
 use App\Enums\UserType;
+use App\Models\TransferLog;
+use Illuminate\Http\Request;
+use App\Enums\TransactionName;
+use App\Services\WalletService;
+use Illuminate\Support\Facades\DB;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\MasterRequest;
-use App\Http\Requests\TransferLogRequest;
-use App\Models\Admin\TransferLog;
-use App\Models\User;
-use App\Services\WalletService;
-use Exception;
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
-use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Gate;
 use Illuminate\Support\Facades\Hash;
+use App\Http\Requests\TransferLogRequest;
 use Illuminate\Validation\ValidationException;
 use Symfony\Component\HttpFoundation\Response;
 
@@ -24,54 +24,54 @@ class MasterController extends Controller
     /**
      * Display a listing of the resource.
      */
-    private const MASTER_ROLE = 2;
+    private const Senior_ROLE = 2;
 
     public function index()
     {
         abort_if(
-            Gate::denies('master_index'),
+            Gate::denies('owner_access'),
             Response::HTTP_FORBIDDEN,
             '403 Forbidden |You cannot  Access this page because you do not have permission'
         );
 
         // $users = User::with(['roles', 'children.children.poneWinePlayer', 'children.children.results', 'children.children.betNResults'])
         //     ->whereHas('roles', function ($query) {
-        //         $query->where('role_id', self::MASTER_ROLE);
+        //         $query->where('role_id', self::Senior_ROLE );
         //     })
         //     ->where('agent_id', auth()->id())
         //     ->orderBy('id', 'desc')
         //     ->get();
 
-        $masters = User::with(['roles', 'children.children.poneWinePlayer'])->whereHas('roles', fn ($q) => $q->where('role_id', self::MASTER_ROLE))
+        $users = User::with(['roles', 'children.children.poneWinePlayer'])->whereHas('roles', fn ($q) => $q->where('role_id', self::Senior_ROLE ))
             ->select('id', 'name', 'user_name', 'phone', 'status')
             ->where('agent_id', auth()->id())
             ->orderBy('created_at', 'desc')
-            ->get();
+            ->paginate(10);
 
-        $reportData = DB::table('users as m')
-            ->join('users as a', 'a.agent_id', '=', 'm.id')          // agent
-            ->join('users as p', 'p.agent_id', '=', 'a.id')          // player
-            ->join('reports', 'reports.member_name', '=', 'p.user_name')
-            ->groupBy('m.id')
-            ->selectRaw('m.id as master_id,SUM(reports.bet_amount) as total_bet_amount,SUM(reports.payout_amount) as total_payout_amount')
-            ->get()
-            ->keyBy('master_id');
+        // $reportData = DB::table('users as m')
+        //     ->join('users as a', 'a.agent_id', '=', 'm.id')          // agent
+        //     ->join('users as p', 'p.agent_id', '=', 'a.id')          // player
+        //     ->join('reports', 'reports.member_name', '=', 'p.user_name')
+        //     ->groupBy('m.id')
+        //     ->selectRaw('m.id as master_id,SUM(reports.bet_amount) as total_bet_amount,SUM(reports.payout_amount) as total_payout_amount')
+        //     ->get()
+        //     ->keyBy('master_id');
 
         // dd($reportData);
-        $users = $masters->map(function ($master) use ($reportData) {
-            $report = $reportData->get($master->id);
-            $poneWineTotalAmt = $master->children->flatMap->children->flatMap->poneWinePlayer->sum('win_lose_amt');
+        // $users = $masters->map(function ($master) use ($reportData) {
+        //     $report = $reportData->get($master->id);
+        //     $poneWineTotalAmt = $master->children->flatMap->children->flatMap->poneWinePlayer->sum('win_lose_amt');
 
-            return (object) [
-                'id' => $master->id,
-                'name' => $master->name,
-                'user_name' => $master->user_name,
-                'phone' => $master->phone,
-                'balanceFloat' => $master->balanceFloat,
-                'status' => $master->status,
-                'win_lose' => (($report->total_payout_amount ?? 0) - ($report->total_bet_amount ?? 0)) + $poneWineTotalAmt,
-            ];
-        });
+        //     return (object) [
+        //         'id' => $master->id,
+        //         'name' => $master->name,
+        //         'user_name' => $master->user_name,
+        //         'phone' => $master->phone,
+        //         'balanceFloat' => $master->balanceFloat,
+        //         'status' => $master->status,
+        //         'win_lose' => (($report->total_payout_amount ?? 0) - ($report->total_bet_amount ?? 0)) + $poneWineTotalAmt,
+        //     ];
+        // });
 
         return view('admin.master.index', compact('users'));
     }
@@ -81,26 +81,30 @@ class MasterController extends Controller
      */
     public function store(MasterRequest $request)
     {
+        // dd($request->all());
         abort_if(
-            Gate::denies('master_create'),
+            Gate::denies('owner_access'),
             Response::HTTP_FORBIDDEN,
             '403 Forbidden |You cannot  Access this page because you do not have permission'
         );
         $admin = Auth::user();
 
         $user_name = session()->get('user_name');
+        // dd($user_name);
 
         $inputs = $request->validated();
 
         $userPrepare = array_merge(
             $inputs,
             [
-                'user_name' => $user_name,
+                'user_name' => $request->user_name,
                 'password' => Hash::make($inputs['password']),
                 'agent_id' => Auth()->user()->id,
-                'type' => UserType::Master,
+                'type' => UserType::Senior,
             ]
         );
+
+        // dd($userPrepare);
 
         if (isset($inputs['amount']) && $inputs['amount'] > $admin->balanceFloat) {
             throw ValidationException::withMessages([
@@ -109,7 +113,7 @@ class MasterController extends Controller
         }
 
         $user = User::create($userPrepare);
-        $user->roles()->sync(self::MASTER_ROLE);
+        $user->roles()->sync(self::Senior_ROLE);
 
         if (isset($inputs['amount'])) {
             app(WalletService::class)->transfer(
@@ -125,8 +129,8 @@ class MasterController extends Controller
         }
         session()->forget('user_name');
 
-        return redirect()->route('admin.master.index')
-            ->with('successMessage', 'Master created successfully')
+        return redirect()->route('admin.senior.index')
+            ->with('successMessage', 'Senior created successfully')
             ->with('password', $request->password)
             ->with('username', $user->user_name)
             ->with('amount', $request->amount);
@@ -138,7 +142,7 @@ class MasterController extends Controller
     public function create()
     {
         abort_if(
-            Gate::denies('master_create'),
+            Gate::denies('owner_access'),
             Response::HTTP_FORBIDDEN,
             '403 Forbidden |You cannot  Access this page because you do not have permission'
         );
@@ -153,7 +157,7 @@ class MasterController extends Controller
     {
         $randomNumber = mt_rand(10000000, 99999999);
 
-        return 'M'.$randomNumber;
+        return 'BK'.$randomNumber;
     }
 
     /**
@@ -162,7 +166,7 @@ class MasterController extends Controller
     public function show(string $id)
     {
         abort_if(
-            Gate::denies('master_show'),
+            Gate::denies('owner_access'),
             Response::HTTP_FORBIDDEN,
             '403 Forbidden |You cannot  Access this page because you do not have permission'
         );
@@ -178,14 +182,14 @@ class MasterController extends Controller
     public function edit(string $id)
     {
         abort_if(
-            Gate::denies('master_edit'),
+            Gate::denies('owner_access'),
             Response::HTTP_FORBIDDEN,
             '403 Forbidden |You cannot  Access this page because you do not have permission'
         );
 
-        $master = User::find($id);
+        $senior = User::find($id);
 
-        return view('admin.master.edit', compact('master'));
+        return view('admin.master.edit', compact('senior'));
     }
 
     /**
@@ -199,9 +203,9 @@ class MasterController extends Controller
             '403 Forbidden |You cannot  Access this page because you do not have permission'
         );
 
-        $master = User::find($id);
+        $senior = User::find($id);
 
-        return view('admin.master.cash_in', compact('master'));
+        return view('admin.master.cash_in', compact('senior'));
     }
 
     public function getCashOut(string $id)
@@ -212,9 +216,9 @@ class MasterController extends Controller
             '403 Forbidden |You cannot  Access this page because you do not have permission'
         );
 
-        $master = User::findOrFail($id);
+        $senior = User::findOrFail($id);
 
-        return view('admin.master.cash_out', compact('master'));
+        return view('admin.master.cash_out', compact('senior'));
     }
 
     public function makeCashIn(TransferLogRequest $request, $id)
@@ -248,6 +252,21 @@ class MasterController extends Controller
                     'new_balance' => $master->balanceFloat + $request->amount,
                 ]
             );
+
+                    TransferLog::create([
+                'from_user_id' => $admin->id,
+                'to_user_id' =>  $master->id,
+                'amount' => $request->amount,
+                'type' => 'top_up',
+                'description' => $request->note ?? 'TopUp from owner to '.$master->user_name,
+                'meta' => [
+                    'transaction_type' => TransactionName::CreditTransfer->value,
+                    'old_balance' => $master->balanceFloat,
+                    'new_balance' => $master->balanceFloat + $request->amount,
+                ],
+            ]);
+
+
 
             return redirect()->back()->with('success', 'Money fill request submitted successfully!');
         } catch (Exception $e) {
@@ -291,6 +310,19 @@ class MasterController extends Controller
                     'new_balance' => $master->balanceFloat - $request->amount,
                 ]
             );
+
+                     TransferLog::create([
+                'from_user_id' => $admin->id,
+                'to_user_id' => $master->id,
+                'amount' => $request->amount,
+                'type' => 'withdraw',
+                'description' => $request->note ?? 'Withdraw from '.$admin->user_name.' to ' . $master->user_name,
+                'meta' => [
+                    'transaction_type' => TransactionName::DebitTransfer->value,
+                    'old_balance' => $master->balanceFloat,
+                    'new_balance' => $master->balanceFloat - $request->amount,
+                ],
+            ]);
 
             return redirect()->back()->with('success', 'Money fill request submitted successfully!');
         } catch (Exception $e) {
@@ -338,7 +370,7 @@ class MasterController extends Controller
     public function update(Request $request, string $id)
     {
         abort_if(
-            Gate::denies('master_edit') || ! $this->ifChildOfParent($request->user()->id, $id),
+            Gate::denies('owner_access') || ! $this->ifChildOfParent($request->user()->id, $id),
             Response::HTTP_FORBIDDEN,
             '403 Forbidden | You cannot access this page because you do not have permission'
         );
@@ -360,14 +392,14 @@ class MasterController extends Controller
         ]);
 
         return redirect()->back()
-            ->with('success', 'master updated successfully!');
+            ->with('success', 'Senior updated successfully!');
     }
 
     public function getChangePassword($id)
     {
-        $master = User::find($id);
+        $senior = User::find($id);
 
-        return view('admin.master.change_password', compact('master'));
+        return view('admin.master.change_password', compact('senior'));
     }
 
     public function makeChangePassword($id, Request $request)
@@ -388,7 +420,7 @@ class MasterController extends Controller
         ]);
 
         return redirect()->back()
-            ->with('success', 'master Change Password successfully')
+            ->with('success', 'Senior Change Password successfully')
             ->with('password', $request->password)
             ->with('username', $master->user_name);
     }

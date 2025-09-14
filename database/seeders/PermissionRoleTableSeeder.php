@@ -13,7 +13,16 @@ class PermissionRoleTableSeeder extends Seeder
     private const ROLE_PERMISSIONS = [
         'Owner' => [
             'owner_access',
+            // 'agent_index', 'agent_create', 'agent_edit', 'agent_delete',
+            'senior_index',
+            'transfer_log', 'make_transfer',
+            'game_type_access', 'provider_access', 'provider_create', 'provider_edit', 'provider_delete', 'provider_index',
+        ],
+
+         'Senior' => [
+            'senior_access',
             'agent_index', 'agent_create', 'agent_edit', 'agent_delete',
+
             'transfer_log', 'make_transfer',
             'game_type_access', 'provider_access', 'provider_create', 'provider_edit', 'provider_delete', 'provider_index',
         ],
@@ -50,16 +59,17 @@ class PermissionRoleTableSeeder extends Seeder
         ],
         'SystemWallet' => [
             'system_wallet_access', 'withdraw', 'deposit', 'bank', 'contact',
-            'report_check', 'owner_access', 'agent_access', 'subagent_access', 'player_access',
+            'report_check', 'owner_access','senior_access', 'agent_access', 'subagent_access', 'player_access',
         ],
     ];
 
     private const ROLE_IDS = [
         'Owner' => 1,
-        'Agent' => 2,
-        'SubAgent' => 3,
-        'Player' => 4,
-        'SystemWallet' => 5,
+        'Senior' => 2,
+        'Agent' => 3,
+        'SubAgent' => 4,
+        'Player' => 5,
+        'SystemWallet' => 6,
     ];
 
     public function run(): void
@@ -123,7 +133,7 @@ class PermissionRoleTableSeeder extends Seeder
     private function cleanupExistingAssignments(): void
     {
         try {
-            DB::table('permission_role')->truncate();
+            DB::table('permission_role')->delete();
             Log::info('Cleaned up existing permission assignments');
         } catch (\Exception $e) {
             Log::error('Failed to cleanup existing permission assignments: '.$e->getMessage());

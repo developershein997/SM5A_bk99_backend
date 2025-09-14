@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href={{'img/bk999.png'}} />
+    <link rel="icon" href={{ 'img/bk999.png' }} />
     <title>BK999| Dashboard</title>
 
     <link rel="stylesheet"
@@ -108,10 +108,10 @@
         <!-- Main Sidebar Container -->
         <aside class="main-sidebar sidebar-dark-primary elevation-4">
             <!-- Brand Logo -->
-             <a href="{{ route('home') }}" class="brand-link">
-            <img src="{{ asset('img/1_city_slot_logo.jpg') }}" alt="Logo"
-                class="brand-image img-circle elevation-3" style="opacity: .8">
-            <span class="brand-text font-weight-light">BK999</span>
+            <a href="{{ route('home') }}" class="brand-link">
+                <img src="{{ asset('img/1_city_slot_logo.jpg') }}" alt="Logo"
+                    class="brand-image img-circle elevation-3" style="opacity: .8">
+                <span class="brand-text font-weight-light">BK999</span>
             </a>
             <!-- Brand Logo -->
 
@@ -138,6 +138,19 @@
                             </a>
                         </li>
 
+                        @can('owner_access')
+                            <li class="nav-item">
+                                <a href="{{ route('admin.senior.index') }}"
+                                    class="nav-link {{ Route::current()->getName() == 'admin.senior.index' ? 'active' : '' }}">
+                                    <i class="fas fa-users"></i>
+                                    <p>
+                                        Senior Lists
+                                    </p>
+                                </a>
+                            </li>
+                        @endcan
+
+
 
 
 
@@ -147,22 +160,33 @@
                                     class="nav-link {{ Route::current()->getName() == 'admin.agent.index' ? 'active' : '' }}">
                                     <i class="fas fa-users"></i>
                                     <p>
-                                        Agent List
+                                        Agent Lists
                                     </p>
                                 </a>
                             </li>
                         @endcan
-                        @can('transfer_log')
+                        {{-- @can('transfer_log')
                             <li class="nav-item">
                                 <a href="{{ route('admin.player.index') }}"
                                     class="nav-link {{ Route::current()->getName() == 'admin.player.index' ? 'active' : '' }}">
                                     <i class="far fa-user"></i>
                                     <p>
-                                        Player List
+                                        Player Lists
                                     </p>
                                 </a>
                             </li>
-                        @endcan
+                        @endcan --}}
+                        @if (!Auth::user()->hasRole('Senior'))
+                            <li class="nav-item">
+                                <a href="{{ route('admin.player.index') }}"
+                                    class="nav-link {{ Route::current()->getName() == 'admin.player.index' ? 'active' : '' }}">
+                                    <i class="far fa-user"></i>
+                                    <p>
+                                        Player Lists
+                                    </p>
+                                </a>
+                            </li>
+                        @endif
                         @can('contact')
                             <li class="nav-item">
                                 <a href="{{ route('admin.contact.index') }}"
@@ -185,7 +209,7 @@
                                 </a>
                             </li>
                         @endcan
-                        @if(Auth::user()->hasPermission('process_withdraw'))
+                        @if (Auth::user()->hasPermission('process_withdraw'))
                             <li class="nav-item">
                                 <a href="{{ route('admin.agent.withdraw') }}"
                                     class="nav-link {{ Route::current()->getName() == 'admin.agent.withdraw' ? 'active' : '' }}">
@@ -196,7 +220,7 @@
                                 </a>
                             </li>
                         @endif
-                        @if(Auth::user()->hasPermission('process_deposit') || Auth::user()->hasPermission('view_deposit_requests'))
+                        @if (Auth::user()->hasPermission('process_deposit') || Auth::user()->hasPermission('view_deposit_requests'))
                             <li class="nav-item">
                                 <a href="{{ route('admin.agent.deposit') }}"
                                     class="nav-link {{ Route::current()->getName() == 'admin.agent.deposit' ? 'active' : '' }}">
@@ -208,15 +232,15 @@
                             </li>
                         @endif
                         @can('transfer_log')
-                        <li class="nav-item">
-                            <a href="{{ route('admin.transfer-logs.index') }}"
-                                class="nav-link {{ Route::current()->getName() == 'admin.transfer-logs.index' ? 'active' : '' }}">
-                                <i class="fas fa-exchange-alt"></i>
-                                <p>
-                                    Transaction Log
-                                </p>
-                            </a>
-                        </li>
+                            <li class="nav-item">
+                                <a href="{{ route('admin.transfer-logs.index') }}"
+                                    class="nav-link {{ Route::current()->getName() == 'admin.transfer-logs.index' ? 'active' : '' }}">
+                                    <i class="fas fa-exchange-alt"></i>
+                                    <p>
+                                        Transaction Log
+                                    </p>
+                                </a>
+                            </li>
                         @endcan
 
                         @can('agent_access')
@@ -230,25 +254,23 @@
                                 </a>
                             </li>
                             <!-- <li class="nav-item">
-                                <a href="{{ route('admin.agent.profile', auth()->user()->id) }}"
-                                    class="nav-link {{ Route::current()->getName() == 'admin.agent.profile' ? 'active' : '' }}">
-                                    <i class="fas fa-user-plus"></i>
+                                    <a href="{{ route('admin.agent.profile', auth()->user()->id) }}"
+                                        class="nav-link {{ Route::current()->getName() == 'admin.agent.profile' ? 'active' : '' }}">
+                                        <i class="fas fa-user-plus"></i>
+                                        <p>
+                                            Agent Profile
+                                        </p>
+                                    </a>
+                                </li> -->
+                            <li class="nav-item">
+                                <a href="{{ route('admin.reports.daily_win_loss') }}"
+                                    class="nav-link {{ Route::currentRouteName() == 'admin.reports.daily_win_loss' ? 'active' : '' }}">
+                                    <i class="nav-icon fas fa-chart-line"></i>
                                     <p>
-                                        Agent Profile
+                                        Daily Win/Loss
                                     </p>
                                 </a>
-                            </li> -->
-                            <li class="nav-item">
-                            <a href="{{ route('admin.reports.daily_win_loss') }}"
-                                class="nav-link {{ Route::currentRouteName() == 'admin.reports.daily_win_loss' ? 'active' : '' }}">
-                                <i class="nav-icon fas fa-chart-line"></i>
-                                <p>
-                                    Daily Win/Loss
-                                </p>
-                            </a>
-                        </li>
-
-
+                            </li>
                         @endcan
                         @can('player_view')
                             <li class="nav-item">
@@ -271,33 +293,29 @@
                                 </a>
                             </li>
                             <!-- <li class="nav-item">
-                                <a href="{{ route('admin.subacc.tran.logs') }}"
-                                    class="nav-link {{ Route::current()->getName() == 'admin.subacc.tran.logs' ? 'active' : '' }}">
-                                    <i class="fas fa-exchange-alt"></i>
-                                    <p>
-                                        Transfer Log
-                                    </p>
-                                </a>
-                            </li> -->
-
+                                    <a href="{{ route('admin.subacc.tran.logs') }}"
+                                        class="nav-link {{ Route::current()->getName() == 'admin.subacc.tran.logs' ? 'active' : '' }}">
+                                        <i class="fas fa-exchange-alt"></i>
+                                        <p>
+                                            Transfer Log
+                                        </p>
+                                    </a>
+                                </li> -->
                         @endcan
 
                         @can('player_view')
-
-                        <li class="nav-item">
+                            <li class="nav-item">
                                 <a href="{{ route('admin.subacc.tran.logs') }}"
                                     class="nav-link {{ Route::current()->getName() == 'admin.subacc.tran.logs' ? 'active' : '' }}">
                                     <i class="fas fa-exchange-alt"></i>
                                     <p>
-                                    Transaction Log
+                                        Transaction Log
                                     </p>
                                 </a>
                             </li>
-
                         @endcan
                         @can('owner_access')
-                            <li
-                                class="nav-item">
+                            <li class="nav-item">
                                 <a href="#" class="nav-link">
                                     <i class="fas fa-tools"></i>
                                     <p>
@@ -322,12 +340,12 @@
                                     </li>
 
                                     <!-- <li class="nav-item">
-                                        <a href=""
-                                            class="nav-link">
-                                            <i class="far fa-circle nav-icon"></i>
-                                            <p>GSC GameType</p>
-                                        </a>
-                                    </li> -->
+                                            <a href=""
+                                                class="nav-link">
+                                                <i class="far fa-circle nav-icon"></i>
+                                                <p>GSC GameType</p>
+                                            </a>
+                                        </li> -->
                                 </ul>
                             </li>
                         @endcan
@@ -336,107 +354,106 @@
 
                         @can('owner_access')
                             <!-- <li
-                                class="nav-item">
-                                <a href="#" class="nav-link">
-                                    <i class="fas fa-tools"></i>
-                                    <p>
-                                        2D
-                                        <i class="fas fa-angle-left right"></i>
-                                    </p>
-                                </a>
-                                <ul class="nav nav-treeview">
-                                    <li class="nav-item">
-                                        <a href="{{ route('admin.twod.settings') }}"
-                                            class="nav-link {{ Route::current()->getName() == 'admin.twod.settings' ? 'active' : '' }}">
-                                            <i class="far fa-circle nav-icon"></i>
-                                            <p>2D Settings</p>
-                                        </a>
-                                    </li>
-
+                                    class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="fas fa-tools"></i>
+                                        <p>
+                                            2D
+                                            <i class="fas fa-angle-left right"></i>
+                                        </p>
+                                    </a>
+                                    <ul class="nav nav-treeview">
                                         <li class="nav-item">
-                                            <a href="{{ route('admin.twod.bet-slip-list') }}"
-                                                class="nav-link {{ Route::current()->getName() == 'admin.twod.bet-slip-list' ? 'active' : '' }}">
-                                                <i class="fas fa-list-alt nav-icon"></i>
-                                                <p>2D Bet Slip List</p>
+                                            <a href="{{ route('admin.twod.settings') }}"
+                                                class="nav-link {{ Route::current()->getName() == 'admin.twod.settings' ? 'active' : '' }}">
+                                                <i class="far fa-circle nav-icon"></i>
+                                                <p>2D Settings</p>
                                             </a>
                                         </li>
 
-                                        <li class="nav-item">
-                                            <a href="{{ route('admin.twod.daily-ledger') }}"
-                                                class="nav-link {{ Route::current()->getName() == 'admin.twod.daily-ledger' ? 'active' : '' }}">
-                                                <i class="fas fa-book nav-icon"></i>
-                                                <p>2D Daily Ledger</p>
-                                            </a>
-                                        </li>
+                                            <li class="nav-item">
+                                                <a href="{{ route('admin.twod.bet-slip-list') }}"
+                                                    class="nav-link {{ Route::current()->getName() == 'admin.twod.bet-slip-list' ? 'active' : '' }}">
+                                                    <i class="fas fa-list-alt nav-icon"></i>
+                                                    <p>2D Bet Slip List</p>
+                                                </a>
+                                            </li>
 
-                                        <li class="nav-item">
-                                            <a href="{{ route('admin.twod.daily-winners') }}"
-                                                class="nav-link {{ Route::current()->getName() == 'admin.twod.daily-winners' ? 'active' : '' }}">
-                                                <i class="fas fa-trophy nav-icon"></i>
-                                                <p>2D Daily Winners</p>
-                                            </a>
-                                        </li>
+                                            <li class="nav-item">
+                                                <a href="{{ route('admin.twod.daily-ledger') }}"
+                                                    class="nav-link {{ Route::current()->getName() == 'admin.twod.daily-ledger' ? 'active' : '' }}">
+                                                    <i class="fas fa-book nav-icon"></i>
+                                                    <p>2D Daily Ledger</p>
+                                                </a>
+                                            </li>
+
+                                            <li class="nav-item">
+                                                <a href="{{ route('admin.twod.daily-winners') }}"
+                                                    class="nav-link {{ Route::current()->getName() == 'admin.twod.daily-winners' ? 'active' : '' }}">
+                                                    <i class="fas fa-trophy nav-icon"></i>
+                                                    <p>2D Daily Winners</p>
+                                                </a>
+                                            </li>
 
 
-                                </ul>
-                            </li> -->
+                                    </ul>
+                                </li> -->
                         @endcan
 
 
                         <!-- agent 2d -->
                         @can('agent_access')
                             <!-- <li
-                                class="nav-item">
+                                    class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="fas fa-tools"></i>
+                                        <p>
+                                            2D
+                                            <i class="fas fa-angle-left right"></i>
+                                        </p>
+                                    </a>
+                                    <ul class="nav nav-treeview">
+
+
+                                    <li class="nav-item">
+                                                <a href="{{ route('admin.twod.bet-slip-list') }}"
+                                                    class="nav-link {{ Route::current()->getName() == 'admin.twod.bet-slip-list' ? 'active' : '' }}">
+                                                    <i class="fas fa-list-alt nav-icon"></i>
+                                                    <p>2D Bet Slip List</p>
+                                                </a>
+                                            </li>
+
+                                            <li class="nav-item">
+                                                <a href="{{ route('admin.twod.daily-ledger') }}"
+                                                    class="nav-link {{ Route::current()->getName() == 'admin.twod.daily-ledger' ? 'active' : '' }}">
+                                                    <i class="fas fa-book nav-icon"></i>
+                                                    <p>2D Daily Ledger</p>
+                                                </a>
+                                            </li>
+
+                                            <li class="nav-item">
+                                                <a href="{{ route('admin.twod.daily-winners') }}"
+                                                    class="nav-link {{ Route::current()->getName() == 'admin.twod.daily-winners' ? 'active' : '' }}">
+                                                    <i class="fas fa-trophy nav-icon"></i>
+                                                    <p>2D Daily Winners</p>
+                                                </a>
+                                            </li>
+                                    </ul>
+                                </li> -->
+                        @endcan
+
+                        <!-- agent 2d -->
+                        @if (!Auth::user()->hasRole('Senior'))
+                            <li class="nav-item">
                                 <a href="#" class="nav-link">
-                                    <i class="fas fa-tools"></i>
+                                    <i class="fas fa-file-invoice"></i>
                                     <p>
-                                        2D
+                                        Reports
                                         <i class="fas fa-angle-left right"></i>
                                     </p>
                                 </a>
                                 <ul class="nav nav-treeview">
-
-
-                                <li class="nav-item">
-                                            <a href="{{ route('admin.twod.bet-slip-list') }}"
-                                                class="nav-link {{ Route::current()->getName() == 'admin.twod.bet-slip-list' ? 'active' : '' }}">
-                                                <i class="fas fa-list-alt nav-icon"></i>
-                                                <p>2D Bet Slip List</p>
-                                            </a>
-                                        </li>
-
-                                        <li class="nav-item">
-                                            <a href="{{ route('admin.twod.daily-ledger') }}"
-                                                class="nav-link {{ Route::current()->getName() == 'admin.twod.daily-ledger' ? 'active' : '' }}">
-                                                <i class="fas fa-book nav-icon"></i>
-                                                <p>2D Daily Ledger</p>
-                                            </a>
-                                        </li>
-
-                                        <li class="nav-item">
-                                            <a href="{{ route('admin.twod.daily-winners') }}"
-                                                class="nav-link {{ Route::current()->getName() == 'admin.twod.daily-winners' ? 'active' : '' }}">
-                                                <i class="fas fa-trophy nav-icon"></i>
-                                                <p>2D Daily Winners</p>
-                                            </a>
-                                        </li>
-                                </ul>
-                            </li> -->
-                        @endcan
-
-                        <!-- agent 2d -->
-
-                        <li
-                            class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="fas fa-file-invoice"></i>
-                                <p>
-                                    Reports
-                                    <i class="fas fa-angle-left right"></i>
-                                </p>
-                            </a>
-                            <ul class="nav nav-treeview">
-                            <!-- <li class="nav-item menu-open">
+                                    <!-- <li class="nav-item menu-open">
                                     <a href="{{ route('admin.wager-list') }}"
                                         class="nav-link {{ Route::current()->getName() == 'admin.wager-list' ? 'active' : '' }}">
                                         <i class="far fa-circle nav-icon"></i>
@@ -445,41 +462,42 @@
                                         </p>
                                     </a>
                                 </li> -->
-                                @can('agent_access')
-                                <li class="nav-item">
-                            <a href="{{ route('admin.player_report.summary') }}"
-                                class="nav-link {{ Route::currentRouteName() == 'admin.player_report.summary' ? 'active' : '' }}">
-                                <i class="nav-icon fas fa-chart-line"></i>
-                                <p>
-                                    Win/Lose Report
-                                </p>
-                            </a>
-                        </li>
-                        @endcan
-                                @can('owner_access')
-                                <li class="nav-item menu-open">
-                                    <a href="{{ route('admin.report.index') }}"
-                                        class="nav-link {{ Route::current()->getName() == 'admin.report.index' ? 'active' : '' }}">
-                                        <i class="far fa-circle nav-icon"></i>
-                                        <p>
-                                            Win/Lose Report
-                                        </p>
-                                    </a>
-                                </li>
-                                @endcan
+                                    @can('agent_access')
+                                        <li class="nav-item">
+                                            <a href="{{ route('admin.player_report.summary') }}"
+                                                class="nav-link {{ Route::currentRouteName() == 'admin.player_report.summary' ? 'active' : '' }}">
+                                                <i class="nav-icon fas fa-chart-line"></i>
+                                                <p>
+                                                    Win/Lose Report
+                                                </p>
+                                            </a>
+                                        </li>
+                                    @endcan
+                                    @can('owner_access')
+                                        <li class="nav-item menu-open">
+                                            <a href="{{ route('admin.report.index') }}"
+                                                class="nav-link {{ Route::current()->getName() == 'admin.report.index' ? 'active' : '' }}">
+                                                <i class="far fa-circle nav-icon"></i>
+                                                <p>
+                                                    Win/Lose Report
+                                                </p>
+                                            </a>
+                                        </li>
+                                    @endcan
+                        @endif
 
-                                @can('player_view')
-                                <!-- <li class="nav-item">
-                            <a href="{{ route('admin.player_report.summary') }}"
-                                class="nav-link {{ Route::currentRouteName() == 'admin.player_report.summary' ? 'active' : '' }}">
-                                <i class="nav-icon fas fa-chart-line"></i>
-                                <p>
-                                    Win/Lose Report
-                                </p>
-                            </a>
-                        </li> -->
+                        @can('player_view')
+                            <!-- <li class="nav-item">
+                                <a href="{{ route('admin.player_report.summary') }}"
+                                    class="nav-link {{ Route::currentRouteName() == 'admin.player_report.summary' ? 'active' : '' }}">
+                                    <i class="nav-icon fas fa-chart-line"></i>
+                                    <p>
+                                        Win/Lose Report
+                                    </p>
+                                </a>
+                            </li> -->
                         @endcan
-                                <!-- <li class="nav-item menu-open">
+                        <!-- <li class="nav-item menu-open">
                                     <a href=""
                                         class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
@@ -497,7 +515,7 @@
                                         </p>
                                     </a>
                                 </li> -->
-                                <!-- <li class="nav-item">
+                        <!-- <li class="nav-item">
                                     <a href=""
                                         class="nav-link">
                                         <i class="fab fa-dochub"></i>
@@ -516,109 +534,110 @@
                                         </p>
                                     </a>
                                 </li> -->
-                                @can('owner_access')
-                                <!-- <li
-                                class="nav-item">
-                                <a href="#" class="nav-link">
-                                    <i class="fas fa-tools"></i>
-                                    <p>
-                                        Shan Player Report
-                                        <i class="fas fa-angle-left right"></i>
-                                    </p>
-                                </a>
-                                <ul class="nav nav-treeview">
+                        @can('owner_access')
+                            <!-- <li
+                                    class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="fas fa-tools"></i>
+                                        <p>
+                                            Shan Player Report
+                                            <i class="fas fa-angle-left right"></i>
+                                        </p>
+                                    </a>
+                                    <ul class="nav nav-treeview">
 
 
-                                        <li class="nav-item">
-                                                <a href="{{ route('admin.shan.player.report') }}"
-                                                class="nav-link {{ Route::current()->getName() == 'admin.shan.player.report' ? 'active' : '' }}">
-                                                <i class="far fa-circle nav-icon"></i>
-                                                <p>Shan Player Report</p>
-                                            </a>
-                                        </li>
+                                            <li class="nav-item">
+                                                    <a href="{{ route('admin.shan.player.report') }}"
+                                                    class="nav-link {{ Route::current()->getName() == 'admin.shan.player.report' ? 'active' : '' }}">
+                                                    <i class="far fa-circle nav-icon"></i>
+                                                    <p>Shan Player Report</p>
+                                                </a>
+                                            </li>
 
 
-                                </ul>
-                            </li> -->
-                                @endcan
+                                    </ul>
+                                </li> -->
+                        @endcan
+                    </ul>
+                    </li>
+                    @can('owner_access')
+                        <li
+                            class="nav-item {{ in_array(Route::currentRouteName(), ['admin.text.index', 'admin.banners.index', 'admin.adsbanners.index', 'admin.promotions.index']) ? 'menu-open' : '' }}">
+                            <a href="#" class="nav-link">
+                                <i class="fas fa-tools"></i>
+                                <p>
+                                    General Settings
+                                    <i class="fas fa-angle-left right"></i>
+                                </p>
+                            </a>
+                            <ul class="nav nav-treeview">
+                                <li class="nav-item">
+                                    <a href="{{ route('admin.video-upload.index') }}"
+                                        class="nav-link {{ Route::current()->getName() == 'admin.video-upload.index' ? 'active' : '' }}">
+                                        <i class="fas fa-video nav-icon"></i>
+                                        <p>AdsVideo</p>
+                                    </a>
+                                </li>
+
+                                <!-- <li class="nav-item">
+                <a href="{{ route('admin.winner_text.index') }}"
+                   class="nav-link {{ Route::current()->getName() == 'admin.winner_text.index' ? 'active' : '' }}">
+                    <i class="fas fa-trophy nav-icon"></i>
+                    <p>WinnerText</p>
+                </a>
+            </li>
+
+            <li class="nav-item">
+                <a href="{{ route('admin.top-10-withdraws.index') }}"
+                   class="nav-link {{ Route::current()->getName() == 'admin.top-10-withdraws.index' ? 'active' : '' }}">
+                    <i class="fas fa-list-ol nav-icon"></i>
+                    <p>WithdrawTopTen</p>
+                </a>
+            </li> -->
+
+                                <li class="nav-item">
+                                    <a href="{{ route('admin.text.index') }}"
+                                        class="nav-link {{ Route::current()->getName() == 'admin.text.index' ? 'active' : '' }}">
+                                        <i class="fas fa-font nav-icon"></i>
+                                        <p>BannerText</p>
+                                    </a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="{{ route('admin.banners.index') }}"
+                                        class="nav-link {{ Route::current()->getName() == 'admin.banners.index' ? 'active' : '' }}">
+                                        <i class="fas fa-image nav-icon"></i>
+                                        <p>Banner</p>
+                                    </a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="{{ route('admin.adsbanners.index') }}"
+                                        class="nav-link {{ Route::current()->getName() == 'admin.adsbanners.index' ? 'active' : '' }}">
+                                        <i class="fas fa-ad nav-icon"></i>
+                                        <p>Banner Ads</p>
+                                    </a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="{{ route('admin.promotions.index') }}"
+                                        class="nav-link {{ Route::current()->getName() == 'admin.promotions.index' ? 'active' : '' }}">
+                                        <i class="fas fa-bullhorn nav-icon"></i>
+                                        <p>Promotions</p>
+                                    </a>
+                                </li>
                             </ul>
                         </li>
-                        @can('owner_access')
-                        <li class="nav-item {{ in_array(Route::currentRouteName(), ['admin.text.index', 'admin.banners.index', 'admin.adsbanners.index', 'admin.promotions.index']) ? 'menu-open' : '' }}">
-    <a href="#" class="nav-link">
-        <i class="fas fa-tools"></i>
-        <p>
-            General Settings
-            <i class="fas fa-angle-left right"></i>
-        </p>
-    </a>
-    <ul class="nav nav-treeview">
-        <li class="nav-item">
-            <a href="{{ route('admin.video-upload.index') }}"
-               class="nav-link {{ Route::current()->getName() == 'admin.video-upload.index' ? 'active' : '' }}">
-                <i class="fas fa-video nav-icon"></i>
-                <p>AdsVideo</p>
-            </a>
-        </li>
-
-        <!-- <li class="nav-item">
-            <a href="{{ route('admin.winner_text.index') }}"
-               class="nav-link {{ Route::current()->getName() == 'admin.winner_text.index' ? 'active' : '' }}">
-                <i class="fas fa-trophy nav-icon"></i>
-                <p>WinnerText</p>
-            </a>
-        </li>
-
-        <li class="nav-item">
-            <a href="{{ route('admin.top-10-withdraws.index') }}"
-               class="nav-link {{ Route::current()->getName() == 'admin.top-10-withdraws.index' ? 'active' : '' }}">
-                <i class="fas fa-list-ol nav-icon"></i>
-                <p>WithdrawTopTen</p>
-            </a>
-        </li> -->
-
-        <li class="nav-item">
-            <a href="{{ route('admin.text.index') }}"
-               class="nav-link {{ Route::current()->getName() == 'admin.text.index' ? 'active' : '' }}">
-                <i class="fas fa-font nav-icon"></i>
-                <p>BannerText</p>
-            </a>
-        </li>
-
-        <li class="nav-item">
-            <a href="{{ route('admin.banners.index') }}"
-               class="nav-link {{ Route::current()->getName() == 'admin.banners.index' ? 'active' : '' }}">
-                <i class="fas fa-image nav-icon"></i>
-                <p>Banner</p>
-            </a>
-        </li>
-
-        <li class="nav-item">
-            <a href="{{ route('admin.adsbanners.index') }}"
-               class="nav-link {{ Route::current()->getName() == 'admin.adsbanners.index' ? 'active' : '' }}">
-                <i class="fas fa-ad nav-icon"></i>
-                <p>Banner Ads</p>
-            </a>
-        </li>
-
-        <li class="nav-item">
-            <a href="{{ route('admin.promotions.index') }}"
-               class="nav-link {{ Route::current()->getName() == 'admin.promotions.index' ? 'active' : '' }}">
-                <i class="fas fa-bullhorn nav-icon"></i>
-                <p>Promotions</p>
-            </a>
-        </li>
-    </ul>
-</li>
-@endcan
-    </nav>
+                    @endcan
+                </nav>
                 <!-- /.sidebar-menu -->
             </div>
             <!-- /.sidebar -->
         </aside>
 
         <div class="content-wrapper">
-                 <div id="toast-container"></div>
+            <div id="toast-container"></div>
             @yield('content')
         </div>
         <footer class="main-footer">
@@ -701,45 +720,44 @@
         });
     </script>
 
-   <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
-<script>
+    <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+    <script>
+        const socket = io("https://panda666.pro", {
+            transports: ["websocket"],
+        });
 
-    const socket = io("https://panda666.pro", {
-        transports: ["websocket"],
-    });
-
-    socket.on("connect", () => {
-        console.log("Connected with id:", socket.id);
-
-
-        const agentId = "{{ Auth::user()->id }}";
-        socket.emit("joinRoom", agentId);
-
-        console.log("Joined room:", "agent_" + agentId);
-    });
+        socket.on("connect", () => {
+            console.log("Connected with id:", socket.id);
 
 
-    function showToast(message) {
-        const container = document.getElementById("toast-container");
-        const toast = document.createElement("div");
-        toast.classList.add("toast");
-        toast.textContent = message;
-        container.appendChild(toast);
+            const agentId = "{{ Auth::user()->id }}";
+            socket.emit("joinRoom", agentId);
 
-        setTimeout(() => toast.classList.add("show"), 100);
-
-        setTimeout(() => {
-            toast.classList.remove("show");
-            setTimeout(() => toast.remove(), 500);
-        }, 5000);
-    }
+            console.log("Joined room:", "agent_" + agentId);
+        });
 
 
-    socket.on("notification", (data) => {
-        console.log("Notification received:", data);
-        showToast("🔔 " + data.message);
-    });
-</script>
+        function showToast(message) {
+            const container = document.getElementById("toast-container");
+            const toast = document.createElement("div");
+            toast.classList.add("toast");
+            toast.textContent = message;
+            container.appendChild(toast);
+
+            setTimeout(() => toast.classList.add("show"), 100);
+
+            setTimeout(() => {
+                toast.classList.remove("show");
+                setTimeout(() => toast.remove(), 500);
+            }, 5000);
+        }
+
+
+        socket.on("notification", (data) => {
+            console.log("Notification received:", data);
+            showToast("🔔 " + data.message);
+        });
+    </script>
 
 
 

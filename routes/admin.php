@@ -62,6 +62,24 @@ Route::group([
     Route::resource('bank', BankController::class);
     // Route::resource('product', ProductController::class);
 
+    //SeniorStart
+    Route::get('/senior-index',[MasterController::class,'index'])->name('senior.index');
+    Route::get('/senior-index/create',[MasterController::class,'create'])->name('senior.index.create');
+    Route::post('/senior-index/create',[MasterController::class,'store'])->name('senior.index.store');
+    // Route::get('agent-player-report/{id}', [AgentController::class, 'getPlayerReports'])->name('agent.getPlayerReports');
+    Route::get('/senior-cash-in/{id}', [MasterController::class, 'getCashIn'])->name('senior.getCashIn');
+    Route::post('senior-cash-in/{id}', [MasterController::class, 'makeCashIn'])->name('senior.makeCashIn');
+    Route::get('senior/cash-out/{id}', [MasterController::class, 'getCashOut'])->name('senior.getCashOut');
+    Route::post('senior/cash-out/update/{id}', [MasterController::class, 'makeCashOut'])->name('senior.makeCashOut');
+    Route::put('senior/{id}/ban', [MasterController::class, 'banAgent'])->name('senior.ban');
+    Route::get('senior-changepassword/{id}', [MasterController::class, 'getChangePassword'])->name('senior.getChangePassword');
+    Route::post('senior-changepassword/{id}', [MasterController::class, 'makeChangePassword'])->name('senior.makeChangePassword');
+    Route::get('senior-profile/{id}', [MasterController::class, 'edit'])->name('senior.profile');
+    Route::put('senior-profile/update/{id}', [MasterController::class, 'update'])->name('senior.profile.update');
+
+
+    //SeniorEnd
+
     // agent start
     Route::resource('agent', AgentController::class);
     Route::get('agent-player-report/{id}', [AgentController::class, 'getPlayerReports'])->name('agent.getPlayerReports');

@@ -31,7 +31,7 @@ class AgentController extends Controller
     /**
      * Display a listing of the resource.
      */
-    private const AGENT_ROLE = 2;
+    private const AGENT_ROLE = 3;
 
     private const PLAYER_ROLE = 4;
 
@@ -85,11 +85,15 @@ class AgentController extends Controller
         //     abort(403);
         // }
 
+
         $users = User::with(['roles', 'children.poneWinePlayer'])->whereHas('roles', fn ($q) => $q->where('role_id', self::AGENT_ROLE))
             ->select('id', 'name', 'user_name', 'phone', 'status', 'referral_code')
             ->where('agent_id', auth()->id())
             ->orderBy('created_at', 'desc')
             ->paginate(10);
+
+
+
 
         // $reportData = DB::table('users as a')
         //     ->join('users as p', 'p.agent_id', '=', 'a.id')          // player
