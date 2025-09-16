@@ -28,7 +28,7 @@ class PlayerController extends Controller
 {
     protected $userService;
 
-    private const PLAYER_ROLE = 4;
+    private const PLAYER_ROLE = 5;
 
     protected const AGENT_ROLE = 'Agent';
 
@@ -148,7 +148,7 @@ class PlayerController extends Controller
 
         return view('admin.player.index', compact('users'));
     }
-    
+
 
     /**
      * Display a listing of the users with their agents.
